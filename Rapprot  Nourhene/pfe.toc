@@ -1,0 +1,208 @@
+\babel@toc {french}{}
+\contentsline {chapter}{Table des figures}{}% 
+\contentsline {chapter}{Liste des tableaux}{}% 
+\contentsline {chapter}{Introduction g\IeC {\'e}n\IeC {\'e}rale}{1}% 
+\contentsline {chapter}{\numberline {1}\IeC {\'E}tat de l'art}{3}% 
+\contentsline {section}{Introduction}{3}% 
+\contentsline {section}{\numberline {1.1}Pr\IeC {\'e}sentation d\IeC {\textquoteright }entreprise d\IeC {\textquoteright }accueil }{3}% 
+\contentsline {section}{\numberline {1.2}Pr\IeC {\'e}sentation de l\IeC {\textquoteright }existant }{5}% 
+\contentsline {section}{\numberline {1.3}Critique de l\IeC {\textquoteright }existant }{5}% 
+\contentsline {section}{\numberline {1.4}Pr\IeC {\'e}sentation du sujet propos\IeC {\'e} }{5}% 
+\contentsline {subsection}{\numberline {1.4.1}Probl\IeC {\'e}matique }{5}% 
+\contentsline {subsection}{\numberline {1.4.2}Solution envisag\IeC {\'e}e}{6}% 
+\contentsline {section}{\numberline {1.5}M\IeC {\'e}thodologie de travail adopt\IeC {\'e}e }{6}% 
+\contentsline {subsection}{\numberline {1.5.1} M\IeC {\'e}thode de mod\IeC {\'e}lisation }{6}% 
+\contentsline {subsubsection}{\numberline {1.5.1.1}Principe}{6}% 
+\contentsline {subsubsection}{\numberline {1.5.1.2}Les phases }{8}% 
+\contentsline {subsubsection}{\numberline {1.5.1.3}Avantages }{10}% 
+\contentsline {subsection}{\numberline {1.5.2}Langage de mod\IeC {\'e}lisation }{10}% 
+\contentsline {subsubsection}{\numberline {1.5.2.1} Les raisons d\IeC {\textquoteright }utiliser UML dans nos phases de d\IeC {\'e}veloppement }{10}% 
+\contentsline {section}{Conclusion}{11}% 
+\contentsline {chapter}{\numberline {2}Phase d\IeC {\textquoteright }incubation}{12}% 
+\contentsline {section}{Introduction}{12}% 
+\contentsline {section}{\numberline {2.1}Capture des besoins}{12}% 
+\contentsline {subsection}{\numberline {2.1.1}Description du contexte du syst\IeC {\`e}me}{12}% 
+\contentsline {subsubsection}{\numberline {2.1.1.1}Diagramme de contexte statique}{12}% 
+\contentsline {subsubsection}{\numberline {2.1.1.2} Diagramme de contexte dynamique }{13}% 
+\contentsline {subsection}{\numberline {2.1.2}D\IeC {\'e}finition des besoins fonctionnels}{14}% 
+\contentsline {subsection}{\numberline {2.1.3}D\IeC {\'e}finition des besoins non fonctionnels}{15}% 
+\contentsline {subsection}{\numberline {2.1.4}Identification des acteurs et des cas d\IeC {\textquoteright }utilisation}{16}% 
+\contentsline {subsubsection}{\numberline {2.1.4.1}Description d\IeC {\'e}taill\IeC {\'e}e des acteurs}{16}% 
+\contentsline {subsubsection}{\numberline {2.1.4.2}Diagramme du cas d\IeC {\textquoteright }utilisation g\IeC {\'e}n\IeC {\'e}ral}{17}% 
+\contentsline {subsection}{\numberline {2.1.5}Raffinement des cas d'utilisation prioritaires}{18}% 
+\contentsline {subsection}{\numberline {2.1.6}Raffinement des cas d\IeC {\textquoteright }utilisation prioritaires}{19}% 
+\contentsline {subsubsection}{\numberline {2.1.6.1}Raffinement du cas d'utilisation "S'authentifier"}{19}% 
+\contentsline {subsection}{\numberline {2.1.7}Raffinement du cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft } G\IeC {\'e}rer enseignant \IeC {\guillemotright }}{20}% 
+\contentsline {subsection}{\numberline {2.1.8}Raffinement du cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft } G\IeC {\'e}rer personnel \IeC {\guillemotright }}{25}% 
+\contentsline {section}{\numberline {2.2}Analyse des cas d\IeC {\textquoteright }utilisation prioritaires }{30}% 
+\contentsline {subsection}{\numberline {2.2.1}Tra\IeC {\c c}abilit\IeC {\'e} entre le mod\IeC {\`e}le du cas d\IeC {\textquoteright }utilisation (MCU) et le mod\IeC {\`e}le d\IeC {\textquoteright }analyse (MA)}{30}% 
+\contentsline {subsubsection}{\numberline {2.2.1.1}Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "S\IeC {\textquoteright }authentifier" }{31}% 
+\contentsline {subsubsection}{\numberline {2.2.1.2}Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "Ajouter enseignant" }{32}% 
+\contentsline {subsubsection}{\numberline {2.2.1.3}Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "consulter la liste des enseignants" }{32}% 
+\contentsline {subsubsection}{\numberline {2.2.1.4}Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "Modifier un enseignant" }{33}% 
+\contentsline {subsubsection}{\numberline {2.2.1.5}Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "Supprimer un enseignant" }{33}% 
+\contentsline {subsubsection}{\numberline {2.2.1.6}Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "Informer enseignant" }{34}% 
+\contentsline {subsubsection}{\numberline {2.2.1.7}Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "Ajouter personnel" }{34}% 
+\contentsline {subsubsection}{\numberline {2.2.1.8}Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "consulter la liste des personnels" }{35}% 
+\contentsline {subsubsection}{\numberline {2.2.1.9}Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "Modifier un personnel" }{35}% 
+\contentsline {subsubsection}{\numberline {2.2.1.10}Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "Supprimer un personnel" }{36}% 
+\contentsline {subsubsection}{\numberline {2.2.1.11}Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "Informer personnel" }{36}% 
+\contentsline {subsection}{\numberline {2.2.2}Diagrammes de classes d'analyse}{37}% 
+\contentsline {subsubsection}{\numberline {2.2.2.1}Diagramme de classes d\IeC {\textquoteright }analyse relatif au cas d\IeC {\textquoteright }utilisation "S\IeC {\textquoteright }authentifier" }{37}% 
+\contentsline {subsubsection}{\numberline {2.2.2.2}Diagramme de classes d\IeC {\textquoteright }analyse relatif au cas d\IeC {\textquoteright }utilisation "G\IeC {\'e}rer enseignant" }{37}% 
+\contentsline {subsubsection}{\numberline {2.2.2.3}Diagramme de classes d\IeC {\textquoteright }analyse relatif au cas d\IeC {\textquoteright }utilisation "G\IeC {\'e}rer personnel" }{38}% 
+\contentsline {subsection}{\numberline {2.2.3}Diagrammes de collaboration }{38}% 
+\contentsline {subsubsection}{\numberline {2.2.3.1}Diagramme de collaboration relatif au cas d\IeC {\textquoteright }utilisation "S\IeC {\textquoteright }authentifier" }{39}% 
+\contentsline {subsubsection}{\numberline {2.2.3.2}Diagramme de collaboration de mod\IeC {\`e}le d'analyse pour le cas d'utilisation \IeC {\guillemotleft }Ajouter enseignant\IeC {\guillemotright } }{39}% 
+\contentsline {subsubsection}{\numberline {2.2.3.3}Diagramme de collaboration pour le mod\IeC {\`e}le d\IeC {\textquoteright }analyse du cas d'utilisation \IeC {\guillemotleft }Consulter enseignant\IeC {\guillemotright }}{40}% 
+\contentsline {subsubsection}{\numberline {2.2.3.4}Diagramme de collaboration de mod\IeC {\`e}le d'analyse pour le cas d'utilisation \IeC {\guillemotleft }Modifier enseignant\IeC {\guillemotright } }{40}% 
+\contentsline {subsubsection}{\numberline {2.2.3.5}Diagramme de collaboration de mod\IeC {\`e}le d'analyse pour le cas d'utilisation "Supprimer enseignant" }{41}% 
+\contentsline {subsubsection}{\numberline {2.2.3.6}Diagramme de collaboration de mod\IeC {\`e}le d'analyse pour le cas d'utilisation \IeC {\guillemotleft }Informer enseignant\IeC {\guillemotright } }{41}% 
+\contentsline {subsubsection}{\numberline {2.2.3.7}Diagramme de collaboration pour le mod\IeC {\`e}le d\IeC {\textquoteright }analyse du cas d'utilisation \IeC {\guillemotleft }Ajouter personnel\IeC {\guillemotright }}{42}% 
+\contentsline {subsubsection}{\numberline {2.2.3.8}Diagramme de collaboration pour le mod\IeC {\`e}le d\IeC {\textquoteright }analyse du cas d'utilisation \IeC {\guillemotleft }Consulter personnel\IeC {\guillemotright }}{42}% 
+\contentsline {subsubsection}{\numberline {2.2.3.9}Diagramme de collaboration pour le mod\IeC {\`e}le d\IeC {\textquoteright }analyse du cas d'utilisation \IeC {\guillemotleft }Modifier personnel\IeC {\guillemotright }}{43}% 
+\contentsline {subsubsection}{\numberline {2.2.3.10}Diagramme de collaboration pour le mod\IeC {\`e}le d\IeC {\textquoteright }analyse du cas d'utilisation \IeC {\guillemotleft }Supprimer personnel\IeC {\guillemotright }}{43}% 
+\contentsline {subsubsection}{\numberline {2.2.3.11}Diagramme de collaboration de mod\IeC {\`e}le d'analyse pour le cas d'utilisation \IeC {\guillemotleft }Informer personnel\IeC {\guillemotright } }{44}% 
+\contentsline {section}{\numberline {2.3}Conception des cas d\IeC {\textquoteright }utilisation prioritaires :}{44}% 
+\contentsline {subsection}{\numberline {2.3.1}Diagrammes des classes de conception :}{44}% 
+\contentsline {subsubsection}{\numberline {2.3.1.1}Diagramme de classes de conception relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft }S\IeC {\textquoteright }authentifier\IeC {\guillemotright } :}{45}% 
+\contentsline {subsubsection}{\numberline {2.3.1.2}Diagramme de classes de conception relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft }G\IeC {\'e}rer enseignant\IeC {\guillemotright } :}{45}% 
+\contentsline {subsubsection}{\numberline {2.3.1.3}Diagramme de classes de conception relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft }G\IeC {\'e}rer personnel\IeC {\guillemotright } :}{46}% 
+\contentsline {subsection}{\numberline {2.3.2}Diagrammes de s\IeC {\'e}quences :}{46}% 
+\contentsline {subsubsection}{\numberline {2.3.2.1}Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft } S\IeC {\textquoteright }authentifier \IeC {\guillemotright } :}{47}% 
+\contentsline {subsubsection}{\numberline {2.3.2.2}Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft } Ajouter enseignant \IeC {\guillemotright } :}{48}% 
+\contentsline {subsubsection}{\numberline {2.3.2.3}Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft } Consulter enseignant \IeC {\guillemotright } :}{49}% 
+\contentsline {subsubsection}{\numberline {2.3.2.4}Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft } Modifier enseignant \IeC {\guillemotright } :}{50}% 
+\contentsline {subsubsection}{\numberline {2.3.2.5}Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft } Supprimer enseignant \IeC {\guillemotright } :}{51}% 
+\contentsline {subsubsection}{\numberline {2.3.2.6}Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation "Informer un enseignant" }{52}% 
+\contentsline {subsubsection}{\numberline {2.3.2.7}Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft }Ajouter personnel\IeC {\guillemotright } :}{53}% 
+\contentsline {subsubsection}{\numberline {2.3.2.8}Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft } Consulter personnel \IeC {\guillemotright } :}{54}% 
+\contentsline {subsubsection}{\numberline {2.3.2.9}Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft } Modifier personnel \IeC {\guillemotright } :}{55}% 
+\contentsline {subsubsection}{\numberline {2.3.2.10}Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft } Supprimer personnel \IeC {\guillemotright } :}{56}% 
+\contentsline {subsubsection}{\numberline {2.3.2.11}Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation "Informer personnel" }{57}% 
+\contentsline {section}{\numberline {2.4}Impl\IeC {\'e}mentation}{58}% 
+\contentsline {subsection}{\numberline {2.4.1}Environnement de d\IeC {\'e}veloppement}{58}% 
+\contentsline {subsection}{\numberline {2.4.2}Impl\IeC {\'e}mentation des cas d'utilisation prioritaires }{61}% 
+\contentsline {section}{Conclusion}{69}% 
+\contentsline {chapter}{\numberline {3}Phase d\IeC {\textquoteright }\IeC {\'e}laboration }{70}% 
+\contentsline {section}{Introduction}{70}% 
+\contentsline {section}{\numberline {3.1}Capture des besoins}{70}% 
+\contentsline {subsection}{\numberline {3.1.1}Raffinement des cas d\IeC {\textquoteright }utilisation secondaires}{70}% 
+\contentsline {subsubsection}{\numberline {3.1.1.1}Raffinement des cas d\IeC {\textquoteright }utilisation "Demande rattrapage"}{71}% 
+\contentsline {subsubsection}{\numberline {3.1.1.2}Raffinement des cas d\IeC {\textquoteright }utilisation "Consulter la liste des rattrapages"}{72}% 
+\contentsline {subsubsection}{\numberline {3.1.1.3}Raffinement du cas d\IeC {\textquoteright }utilisation "Demande cong\IeC {\'e}"}{74}% 
+\contentsline {subsubsection}{\numberline {3.1.1.4}Raffinement du cas d\IeC {\textquoteright }utilisation "Consulter la liste des demandes des cong\IeC {\'e}"}{75}% 
+\contentsline {subsubsection}{\numberline {3.1.1.5}Raffinement du cas d\IeC {\textquoteright }utilisation "Consulter la liste des demandes des cong\IeC {\'e}s accept\IeC {\'e}es"}{78}% 
+\contentsline {subsubsection}{\numberline {3.1.1.6}Raffinement du cas d\IeC {\textquoteright }utilisation "Consulter l'emploi du temps"}{79}% 
+\contentsline {subsubsection}{\numberline {3.1.1.7}Raffinement du cas d\IeC {\textquoteright }utilisation "Consulter le nombre d'absences"}{80}% 
+\contentsline {section}{\numberline {3.2}Analyse des cas d\IeC {\textquoteright }utilisation secondaires }{81}% 
+\contentsline {subsection}{\numberline {3.2.1}Tra\IeC {\c c}abilit\IeC {\'e} entre le mod\IeC {\`e}le du cas d\IeC {\textquoteright }utilisation (MCU) et le mod\IeC {\`e}le d\IeC {\textquoteright }analyse (MA)}{81}% 
+\contentsline {subsubsection}{\numberline {3.2.1.1}Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "Demander rattrapage" }{81}% 
+\contentsline {subsubsection}{\numberline {3.2.1.2}Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "consulter les listes des rattrapages" }{82}% 
+\contentsline {subsubsection}{\numberline {3.2.1.3}Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation " Supprimer un rattrapage" }{82}% 
+\contentsline {subsubsection}{\numberline {3.2.1.4}Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "Demander cong\IeC {\'e}" }{83}% 
+\contentsline {subsubsection}{\numberline {3.2.1.5}Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "Consulter la liste des demandes des cong\IeC {\'e}s " }{83}% 
+\contentsline {subsubsection}{\numberline {3.2.1.6}Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation " Modifier la demande du cong\IeC {\'e}" }{84}% 
+\contentsline {subsubsection}{\numberline {3.2.1.7}Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "Supprimer une demande du cong\IeC {\'e}" }{84}% 
+\contentsline {subsubsection}{\numberline {3.2.1.8}Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "Consulter la liste des demandes des cong\IeC {\'e}s accept\IeC {\'e}es" }{85}% 
+\contentsline {subsubsection}{\numberline {3.2.1.9}Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "Consulter l'emploi du temps" }{85}% 
+\contentsline {subsubsection}{\numberline {3.2.1.10}Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "Consulter le nombre d'absence" }{86}% 
+\contentsline {subsection}{\numberline {3.2.2}Diagrammes de classes d'analyse}{86}% 
+\contentsline {subsubsection}{\numberline {3.2.2.1}Diagramme de classes d\IeC {\textquoteright }analyse relatif aux cas d\IeC {\textquoteright }utilisations "Demander rattrapage " et "Consulter rattrapage" }{86}% 
+\contentsline {subsubsection}{\numberline {3.2.2.2}Diagramme de classes d\IeC {\textquoteright }analyse relatif aux cas d\IeC {\textquoteright }utilisations "Demander cong\IeC {\'e} ", "Consulter la liste des demandes des cong\IeC {\'e}s " et "Consulter la liste des demandes des cong\IeC {\'e}s accept\IeC {\'e}es"}{87}% 
+\contentsline {subsubsection}{\numberline {3.2.2.3}Diagramme de classes d\IeC {\textquoteright }analyse relatif au cas d\IeC {\textquoteright }utilisation "Consulter l'emploi du temps" }{87}% 
+\contentsline {subsubsection}{\numberline {3.2.2.4}Diagramme de classes d\IeC {\textquoteright }analyse relatif au cas d\IeC {\textquoteright }utilisation "Consulter le nombre d'absence" }{88}% 
+\contentsline {subsection}{\numberline {3.2.3}Diagrammes de collaboration }{88}% 
+\contentsline {subsubsection}{\numberline {3.2.3.1}Diagramme de collaboration de mod\IeC {\`e}le d'analyse pour le cas d'utilisation \IeC {\guillemotleft }Demander un rattrapage\IeC {\guillemotright } }{88}% 
+\contentsline {subsubsection}{\numberline {3.2.3.2}Diagramme de collaboration de mod\IeC {\`e}le d'analyse pour le cas d'utilisation \IeC {\guillemotleft }Consulter la liste des rattrapages\IeC {\guillemotright } }{89}% 
+\contentsline {subsubsection}{\numberline {3.2.3.3}Diagramme de collaboration de mod\IeC {\`e}le d'analyse pour le cas d'utilisation \IeC {\guillemotleft } Supprimer un rattrapage \IeC {\guillemotright } }{89}% 
+\contentsline {subsubsection}{\numberline {3.2.3.4}Diagramme de collaboration de mod\IeC {\`e}le d'analyse pour le cas d'utilisation \IeC {\guillemotleft } Demander cong\IeC {\'e} \IeC {\guillemotright } }{90}% 
+\contentsline {subsubsection}{\numberline {3.2.3.5}Diagramme de collaboration de mod\IeC {\`e}le d'analyse pour le cas d'utilisation \IeC {\guillemotleft } Consulter la liste des demandes des cong\IeC {\'e}s\IeC {\guillemotright } }{90}% 
+\contentsline {subsubsection}{\numberline {3.2.3.6}Diagramme de collaboration de mod\IeC {\`e}le d'analyse pour le cas d'utilisation \IeC {\guillemotleft } Modifier la demande du cong\IeC {\'e} \IeC {\guillemotright } }{91}% 
+\contentsline {subsubsection}{\numberline {3.2.3.7}Diagramme de collaboration de mod\IeC {\`e}le d'analyse pour le cas d'utilisation \IeC {\guillemotleft } Supprimer la demande du cong\IeC {\'e} \IeC {\guillemotright } }{91}% 
+\contentsline {subsubsection}{\numberline {3.2.3.8}Diagramme de collaboration de mod\IeC {\`e}le d'analyse pour le cas d'utilisation \IeC {\guillemotleft } Consulter la liste des demandes des cong\IeC {\'e}s accept\IeC {\'e}es \IeC {\guillemotright } }{92}% 
+\contentsline {subsubsection}{\numberline {3.2.3.9}Diagramme de collaboration de mod\IeC {\`e}le d'analyse pour le cas d'utilisation \IeC {\guillemotleft } Consulter l'emploi du temps \IeC {\guillemotright } }{92}% 
+\contentsline {subsubsection}{\numberline {3.2.3.10}Diagramme de collaboration de mod\IeC {\`e}le d'analyse pour le cas d'utilisation \IeC {\guillemotleft } Consulter le nombre d'absences \IeC {\guillemotright } }{93}% 
+\contentsline {section}{\numberline {3.3}Conception des cas d\IeC {\textquoteright }utilisation secondaires :}{93}% 
+\contentsline {subsection}{\numberline {3.3.1}Diagrammes des classes de conception :}{94}% 
+\contentsline {subsubsection}{\numberline {3.3.1.1}Diagramme de classes de conception relatif aux cas d'utilisations \IeC {\guillemotleft }Demander rattrapage \IeC {\guillemotright } et \IeC {\guillemotleft } Consulter rattrapage \IeC {\guillemotright } :}{94}% 
+\contentsline {subsubsection}{\numberline {3.3.1.2}Diagramme de classes de conception relatif aux cas d'utilisations \IeC {\guillemotleft } Demander cong\IeC {\'e} \IeC {\guillemotright } , \IeC {\guillemotleft }Consulter la liste des demandes des cong\IeC {\'e}s\IeC {\guillemotright } et \IeC {\guillemotleft }Consulter la liste des demandes des cong\IeC {\'e}s accept\IeC {\'e}es\IeC {\guillemotright } }{95}% 
+\contentsline {subsubsection}{\numberline {3.3.1.3}Diagramme de classes de conception relatif au cas d'utilisations \IeC {\guillemotleft } Consulter le nombre d'absence \IeC {\guillemotright } :}{96}% 
+\contentsline {subsection}{\numberline {3.3.2}Diagrammes de s\IeC {\'e}quences :}{97}% 
+\contentsline {subsubsection}{\numberline {3.3.2.1}Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft } Demander rattrapage \IeC {\guillemotright } :}{97}% 
+\contentsline {subsubsection}{\numberline {3.3.2.2}Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft } Consulter rattrapage \IeC {\guillemotright } :}{98}% 
+\contentsline {subsubsection}{\numberline {3.3.2.3}Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft } Supprimer rattrapage\IeC {\guillemotright } :}{99}% 
+\contentsline {subsubsection}{\numberline {3.3.2.4}Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft } Demander cong\IeC {\'e}\IeC {\guillemotright } :}{100}% 
+\contentsline {subsubsection}{\numberline {3.3.2.5}Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft }Consulter la liste des demandes des cong\IeC {\'e}s \IeC {\guillemotright } :}{101}% 
+\contentsline {subsubsection}{\numberline {3.3.2.6}Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft }Modifier la demande du cong\IeC {\'e}\IeC {\guillemotright } :}{102}% 
+\contentsline {subsubsection}{\numberline {3.3.2.7}Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft }Supprimer la demande du cong\IeC {\'e}\IeC {\guillemotright } :}{103}% 
+\contentsline {subsubsection}{\numberline {3.3.2.8}Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft } Consulter la liste des demandes des cong\IeC {\'e}s accept\IeC {\'e}es\IeC {\guillemotright } :}{104}% 
+\contentsline {subsubsection}{\numberline {3.3.2.9}Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft } Consulter l'emploi du temps\IeC {\guillemotright } :}{105}% 
+\contentsline {subsubsection}{\numberline {3.3.2.10}Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft } Consulter le nombre d'absences\IeC {\guillemotright } :}{106}% 
+\contentsline {section}{\numberline {3.4}Impl\IeC {\'e}mentation}{107}% 
+\contentsline {subsection}{\numberline {3.4.1}Impl\IeC {\'e}mentation des cas d'utilisations secondaires }{107}% 
+\contentsline {section}{Conclusion}{112}% 
+\contentsline {chapter}{\numberline {4}Phase de construction}{113}% 
+\contentsline {section}{Introduction}{113}% 
+\contentsline {section}{\numberline {4.1}Capture des besoins}{113}% 
+\contentsline {subsection}{\numberline {4.1.1}Raffinement des cas d\IeC {\textquoteright }utilisation tertiaire}{113}% 
+\contentsline {subsubsection}{\numberline {4.1.1.1}Raffinement du cas d'utilisation "Consulter la liste des demandes des cong\IeC {\'e}s accept\IeC {\'e}es"}{113}% 
+\contentsline {subsubsection}{\numberline {4.1.1.2}Raffinement du cas d'utilisation "Consulter la liste des demandes des cong\IeC {\'e}s qui n\IeC {\'e}cessite une justification "}{116}% 
+\contentsline {subsubsection}{\numberline {4.1.1.3}Raffinement du cas d'utilisation "Consulter les demandes des cong\IeC {\'e}s "}{117}% 
+\contentsline {subsubsection}{\numberline {4.1.1.4}Raffinement du cas d'utilisation "Consulter la liste des enseignants rempla\IeC {\c c}ants "}{119}% 
+\contentsline {subsubsection}{\numberline {4.1.1.5}Raffinement du cas d'utilisation " Marquer la pr\IeC {\'e}sence des enseignants"}{122}% 
+\contentsline {section}{\numberline {4.2}Analyse des cas d\IeC {\textquoteright }utilisation tertiaire }{123}% 
+\contentsline {subsection}{\numberline {4.2.1}Tra\IeC {\c c}abilit\IeC {\'e} entre le mod\IeC {\`e}le du cas d\IeC {\textquoteright }utilisation (MCU) et le mod\IeC {\`e}le d\IeC {\textquoteright }analyse (MA)}{123}% 
+\contentsline {subsubsection}{\numberline {4.2.1.1}Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "Consulter la liste des demandes des cong\IeC {\'e}s accept\IeC {\'e}es"}{124}% 
+\contentsline {subsubsection}{\numberline {4.2.1.2}Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "Ajouter un enseignant rempla\IeC {\c c}ant"}{124}% 
+\contentsline {subsubsection}{\numberline {4.2.1.3}Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "Consulter la liste des demandes des cong\IeC {\'e}s qui n\IeC {\'e}cessite une justification" }{125}% 
+\contentsline {subsubsection}{\numberline {4.2.1.4}Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "Consulter la liste des demandes des cong\IeC {\'e}s " }{125}% 
+\contentsline {subsubsection}{\numberline {4.2.1.5}Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au sous cas d\IeC {\textquoteright }utilisation "Accepter" }{126}% 
+\contentsline {subsubsection}{\numberline {4.2.1.6}Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au sous cas d\IeC {\textquoteright }utilisation "Donner une justification" }{126}% 
+\contentsline {subsubsection}{\numberline {4.2.1.7}Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "Modifier enseignant rempla\IeC {\c c}ant" }{127}% 
+\contentsline {subsubsection}{\numberline {4.2.1.8}Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "Supprimer enseignant rempla\IeC {\c c}ant" }{127}% 
+\contentsline {subsubsection}{\numberline {4.2.1.9}Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "Marquer \IeC {\'e}tat absence / pr\IeC {\'e}sence" }{128}% 
+\contentsline {subsection}{\numberline {4.2.2}Diagrammes de classes d'analyse}{128}% 
+\contentsline {subsubsection}{\numberline {4.2.2.1}Diagramme de classes d\IeC {\textquoteright }analyse relatif aux cas d\IeC {\textquoteright }utilisation"Consulter la liste des demandes des cong\IeC {\'e} accept\IeC {\'e}es", "Consulter la liste des demandes des cong\IeC {\'e} qui n\IeC {\'e}cessite une justification" et "Consulter les demandes des cong\IeC {\'e}s" }{129}% 
+\contentsline {subsubsection}{\numberline {4.2.2.2}Diagramme de classes d\IeC {\textquoteright }analyse relatif aux cas d\IeC {\textquoteright }utilisation "Ajouter enseignant rempla\IeC {\c c}ant" }{129}% 
+\contentsline {subsubsection}{\numberline {4.2.2.3}Diagramme de classes d\IeC {\textquoteright }analyse relatif au cas d\IeC {\textquoteright }utilisation "Consulter la liste des enseignants rempla\IeC {\c c}ants" }{130}% 
+\contentsline {subsubsection}{\numberline {4.2.2.4}Diagramme de classes d\IeC {\textquoteright }analyse relatif au cas d\IeC {\textquoteright }utilisation "Marquer \IeC {\'e}tat absence / pr\IeC {\'e}sence" }{130}% 
+\contentsline {subsection}{\numberline {4.2.3}Diagrammes de collaboration }{130}% 
+\contentsline {subsubsection}{\numberline {4.2.3.1}Diagramme de collaboration de mod\IeC {\`e}le d'analyse pour le cas d'utilisation \IeC {\guillemotleft } Consulter la liste des demandes des cong\IeC {\'e}s accept\IeC {\'e}s \IeC {\guillemotright } }{131}% 
+\contentsline {subsubsection}{\numberline {4.2.3.2}Diagramme de collaboration de mod\IeC {\`e}le d'analyse pour le cas d'utilisation \IeC {\guillemotleft } Ajouter un enseignant rempla\IeC {\c c}ant \IeC {\guillemotright } }{131}% 
+\contentsline {subsubsection}{\numberline {4.2.3.3}Diagramme de collaboration de mod\IeC {\`e}le d'analyse pour le cas d'utilisation \IeC {\guillemotleft } Consulter la liste des desmandes des cong\IeC {\'e}s qui n\IeC {\'e}cessite une justification \IeC {\guillemotright } }{132}% 
+\contentsline {subsubsection}{\numberline {4.2.3.4}Diagramme de collaboration de mod\IeC {\`e}le d'analyse pour le cas d'utilisation \IeC {\guillemotleft } Consulter les demandes des cong\IeC {\'e}s\IeC {\guillemotright } }{132}% 
+\contentsline {subsubsection}{\numberline {4.2.3.5}Diagramme de collaboration de mod\IeC {\`e}le d'analyse pour le cas d'utilisation \IeC {\guillemotleft } Accepter \IeC {\guillemotright } ou \IeC {\guillemotleft } Donner une justification \IeC {\guillemotright } }{133}% 
+\contentsline {subsubsection}{\numberline {4.2.3.6}Diagramme de collaboration de mod\IeC {\`e}le d'analyse pour le cas d'utilisation \IeC {\guillemotleft } Consulter la liste des enseignants rempla\IeC {\c c}ants \IeC {\guillemotright } }{133}% 
+\contentsline {subsubsection}{\numberline {4.2.3.7}Diagramme de collaboration de mod\IeC {\`e}le d'analyse pour le cas d'utilisation \IeC {\guillemotleft } Modifier un enseignant rempla\IeC {\c c}ant \IeC {\guillemotright } }{134}% 
+\contentsline {subsubsection}{\numberline {4.2.3.8}Diagramme de collaboration de mod\IeC {\`e}le d'analyse pour le cas d'utilisation \IeC {\guillemotleft } Supprimer un enseignant rempla\IeC {\c c}ant \IeC {\guillemotright } }{134}% 
+\contentsline {subsubsection}{\numberline {4.2.3.9}Diagramme de collaboration de mod\IeC {\`e}le d'analyse pour le cas d'utilisation \IeC {\guillemotleft }Marquer \IeC {\'e}tat absence / pr\IeC {\'e}sence \IeC {\guillemotright } }{135}% 
+\contentsline {section}{\numberline {4.3}Conception des cas d\IeC {\textquoteright }utilisation tertiaire }{135}% 
+\contentsline {subsection}{\numberline {4.3.1}Diagrammes des classes de conception }{136}% 
+\contentsline {subsubsection}{\numberline {4.3.1.1}Diagramme de classes de conception relatif aux cas d\IeC {\textquoteright }utilisation "Consulter la liste des demandes des cong\IeC {\'e} accept\IeC {\'e}es", "Consulter la liste des demandes des cong\IeC {\'e} qui n\IeC {\'e}cessite une justification" et "Consulter les demandes des cong\IeC {\'e}s" :}{136}% 
+\contentsline {subsubsection}{\numberline {4.3.1.2}Diagramme de classes de conception relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft }Consulter la liste des demandes des cong\IeC {\'e} accept\IeC {\'e}es\IeC {\guillemotright } :}{137}% 
+\contentsline {subsubsection}{\numberline {4.3.1.3}Diagramme de classes de conception relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft }Consulter la liste des enseignants rempla\IeC {\c c}ants \IeC {\guillemotright } :}{138}% 
+\contentsline {subsubsection}{\numberline {4.3.1.4}Diagramme de classes de conception relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft }Marquer \IeC {\'e}tat absence / pr\IeC {\'e}sence \IeC {\guillemotright } :}{139}% 
+\contentsline {subsection}{\numberline {4.3.2}Diagrammes de s\IeC {\'e}quences :}{139}% 
+\contentsline {subsubsection}{\numberline {4.3.2.1}Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft } Consulter la liste des demandes des cong\IeC {\'e}s accept\IeC {\'e}s \IeC {\guillemotright } :}{140}% 
+\contentsline {subsubsection}{\numberline {4.3.2.2}Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft } Ajouter un enseignant rempla\IeC {\c c}ant \IeC {\guillemotright } :}{141}% 
+\contentsline {subsubsection}{\numberline {4.3.2.3}Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft }Consulter la liste des desmandes des cong\IeC {\'e}s qui n\IeC {\'e}cessite une justification\IeC {\guillemotright } :}{142}% 
+\contentsline {subsubsection}{\numberline {4.3.2.4}Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft }Consulter les demandes des cong\IeC {\'e}s\IeC {\guillemotright } :}{143}% 
+\contentsline {subsubsection}{\numberline {4.3.2.5}Diagramme de s\IeC {\'e}quences relatif aux sous cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft } Accepter \IeC {\guillemotright } ou \IeC {\guillemotleft } Donner une justification \IeC {\guillemotright } :}{144}% 
+\contentsline {subsubsection}{\numberline {4.3.2.6}Diagramme de s\IeC {\'e}quences relatif au sous cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft }Consulter la liste des enseignants rempla\IeC {\c c}ants \IeC {\guillemotright } :}{145}% 
+\contentsline {subsubsection}{\numberline {4.3.2.7}Diagramme de s\IeC {\'e}quences relatif au sous cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft } Modifier un enseignant rempla\IeC {\c c}ant\IeC {\guillemotright } :}{146}% 
+\contentsline {subsubsection}{\numberline {4.3.2.8}Diagramme de s\IeC {\'e}quences relatif au sous cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft } Supprimer un enseignant rempla\IeC {\c c}ant\IeC {\guillemotright } :}{147}% 
+\contentsline {subsubsection}{\numberline {4.3.2.9}Diagramme de s\IeC {\'e}quences relatif au sous cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft } Marquer \IeC {\'e}tat absence / pr\IeC {\'e}sence\IeC {\guillemotright } :}{148}% 
+\contentsline {section}{\numberline {4.4}Impl\IeC {\'e}mentation}{149}% 
+\contentsline {subsection}{\numberline {4.4.1}Environnement de d\IeC {\'e}veloppement}{149}% 
+\contentsline {section}{Conclusion}{153}% 
+\contentsline {chapter}{\numberline {5}Phase de transition}{154}% 
+\contentsline {section}{Introduction}{154}% 
+\contentsline {section}{\numberline {5.1}Test d'authentification }{154}% 
+\contentsline {section}{\numberline {5.2}Test d'ajout d'un enseignant}{156}% 
+\contentsline {section}{\numberline {5.3}Test de modification d'un enseignant}{156}% 
+\contentsline {section}{\numberline {5.4}Test du suppression}{157}% 
+\contentsline {section}{\numberline {5.5}Test d'informer }{157}% 
+\contentsline {section}{\numberline {5.6}Test des demandes du cong\IeC {\'e}}{158}% 
+\contentsline {section}{\numberline {5.7}Test des demandes de rattrapage}{158}% 
+\contentsline {chapter}{Bibliographie}{162}% 

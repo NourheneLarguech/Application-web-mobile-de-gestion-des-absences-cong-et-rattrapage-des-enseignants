@@ -1,0 +1,2166 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.24)  3 MAY 2019 10:39
+entering extended mode
+**./rap.tex
+(rap.tex
+LaTeX2e <2018-12-01>
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\report.cls"
+Document Class: report 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
+File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+) ("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty
+"
+Package: babel 2019/04/03 3.29 The Babel package
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.def"
+File: switch.def 2019/04/03 3.29 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel-french\fren
+ch.ldf"
+Language: french 2019/03/30 v3.5e French support from the babel system
+
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def"
+File: babel.def 2019/04/03 3.29 Babel common definitions
+\babel@savecnt=\count89
+\U@D=\dimen103
+
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.de
+f")
+\bbl@dirlevel=\count90
+)
+\l@acadian = a dialect from \language\l@french 
+\FB@nonchar=\count91
+Package babel Info: Making : an active character on input line 414.
+Package babel Info: Making ; an active character on input line 415.
+Package babel Info: Making ! an active character on input line 416.
+Package babel Info: Making ? an active character on input line 417.
+\FBguill@level=\count92
+\FBold@everypar=\toks16
+\FB@Mht=\dimen104
+\mc@charclass=\count93
+\mc@charfam=\count94
+\mc@charslot=\count95
+\std@mcc=\count96
+\dec@mcc=\count97
+\c@FBcaption@count=\count98
+\listindentFB=\dimen105
+\descindentFB=\dimen106
+\labelindentFB=\dimen107
+\labelwidthFB=\dimen108
+\leftmarginFB=\dimen109
+\parindentFFN=\dimen110
+\FBfnindent=\dimen111
+))
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/latex/carlisle\scalefnt.s
+ty")
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty
+"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) ("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty"
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+ ("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1enc.def"
+File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.s
+ty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.s
+ty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphi
+cs.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex
+.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancyhdr.s
+ty"
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip43
+\f@nch@O@elh=\skip44
+\f@nch@O@erh=\skip45
+\f@nch@O@olh=\skip46
+\f@nch@O@orh=\skip47
+\f@nch@O@elf=\skip48
+\f@nch@O@erf=\skip49
+\f@nch@O@olf=\skip50
+\f@nch@O@orf=\skip51
+)
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.s
+ty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.st
+y"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifvtex.s
+ty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.s
+ty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count99
+\Gm@cntv=\count100
+\c@Gm@tempcnt=\count101
+\Gm@bindingoffset=\dimen114
+\Gm@wd@mp=\dimen115
+\Gm@odd@mp=\dimen116
+\Gm@even@mp=\dimen117
+\Gm@layoutwidth=\dimen118
+\Gm@layoutheight=\dimen119
+\Gm@layouthoffset=\dimen120
+\Gm@layoutvoffset=\dimen121
+\Gm@dimlist=\toks18
+
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.c
+fg"))
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fncychap\fncychap.s
+ty"
+Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
+\RW=\skip52
+\mylen=\skip53
+\myhi=\skip54
+\px=\skip55
+\py=\skip56
+\pyy=\skip57
+\pxx=\skip58
+\backskip=\skip59
+)
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/latex/setspace\setspace.s
+ty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+) ("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\lmodern.sty"
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/latex/enumitem\enumitem.s
+ty"
+Package: enumitem 2019/02/04 v3.8 Customized lists
+\labelindent=\skip60
+\enit@outerparindent=\dimen122
+\enit@toks=\toks19
+\enit@inbox=\box27
+\enit@count@id=\count102
+\enitdp@description=\count103
+)
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\pifont.sty"
+Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
+LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\upzd.fd"
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\upsy.fd"
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color.
+cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Package option `xllnames' ignored on input line 216.
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/latex/colortbl\colortbl.s
+ty"
+Package: colortbl 2018/12/12 v1.0d Color table columns (DPC)
+ ("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen123
+\ar@mcellbox=\box28
+\extrarowheight=\dimen124
+\NC@list=\toks20
+\extratabsurround=\skip61
+\backup@length=\skip62
+\ar@cellbox=\box29
+)
+\everycr=\toks21
+\minrowclearance=\skip63
+)
+\rownum=\count104
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\dvipsnam.d
+ef"
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+)
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\svgnam.def"
+File: svgnam.def 2016/05/11 v2.12 Predefined colors according to SVG 1.1 (UK)
+)) ("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\ragged2e.sty"
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\everysel.sty"
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip64
+\RaggedLeftLeftskip=\skip65
+\RaggedRightLeftskip=\skip66
+\CenteringRightskip=\skip67
+\RaggedLeftRightskip=\skip68
+\RaggedRightRightskip=\skip69
+\CenteringParfillskip=\skip70
+\RaggedLeftParfillskip=\skip71
+\RaggedRightParfillskip=\skip72
+\JustifyingParfillskip=\skip73
+\CenteringParindent=\skip74
+\RaggedLeftParindent=\skip75
+\RaggedRightParindent=\skip76
+\JustifyingParindent=\skip77
+)
+\enitdp@gitemize=\count105
+\enitdp@fitemize=\count106
+\enitdp@hitemize=\count107
+\enitdp@jitemize=\count108
+\enitdp@kitemize=\count109
+\enitdp@litemize=\count110
+\enitdp@mitemize=\count111
+\enitdp@witemize=\count112
+\enitdp@xitemize=\count113
+\enitdp@citemize=\count114
+
+(rap.aux
+
+LaTeX Warning: Label `table-nom' multiply defined.
+
+
+LaTeX Warning: Label `table-nom' multiply defined.
+
+
+LaTeX Warning: Label `table-nom' multiply defined.
+
+
+LaTeX Warning: Label `table-nom' multiply defined.
+
+
+LaTeX Warning: Label `table-nom' multiply defined.
+
+
+LaTeX Warning: Label `table-nom' multiply defined.
+
+
+LaTeX Warning: Label `table-nom' multiply defined.
+
+
+LaTeX Warning: Label `table-nom' multiply defined.
+
+
+LaTeX Warning: Label `table-nom' multiply defined.
+
+
+LaTeX Warning: Label `table-nom' multiply defined.
+
+
+LaTeX Warning: Label `table-nom' multiply defined.
+
+
+LaTeX Warning: Label `table-nom' multiply defined.
+
+
+LaTeX Warning: Label `table-nom' multiply defined.
+
+
+LaTeX Warning: Label `table-nom' multiply defined.
+
+
+LaTeX Warning: Label `table-nom' multiply defined.
+
+
+LaTeX Warning: Label `table-nom' multiply defined.
+
+
+LaTeX Warning: Label `table-nom' multiply defined.
+
+
+LaTeX Warning: Label `table-nom' multiply defined.
+
+
+LaTeX Warning: Label `table-nom' multiply defined.
+
+
+LaTeX Warning: Label `table-nom' multiply defined.
+
+
+LaTeX Warning: Label `table-nom' multiply defined.
+
+
+LaTeX Warning: Label `table-nom' multiply defined.
+
+
+LaTeX Warning: Label `table-nom' multiply defined.
+
+
+LaTeX Warning: Label `table-nom' multiply defined.
+
+
+LaTeX Warning: Label `table-nom' multiply defined.
+
+
+LaTeX Warning: Label `table-nom' multiply defined.
+
+
+LaTeX Warning: Label `table-nom' multiply defined.
+
+
+LaTeX Warning: Label `table-nom' multiply defined.
+
+)
+\openout1 = `rap.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 72.
+ ("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\t1lmr.fd"
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Info: Redefining \degres on input line 72.
+LaTeX Info: Redefining \dots on input line 72.
+Package french.ldf Info: Setting StandardItemizeEnv=true for
+(french.ldf)             compatibility with enumitem package,
+(french.ldf)             reported on input line 72.
+Package french.ldf Info: Setting StandardEnumerateEnv=true for
+(french.ldf)             compatibility with enumitem package,
+(french.ldf)             reported on input line 72.
+LaTeX Info: Redefining \up on input line 72.
+
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pd
+f.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count115
+\scratchdimen=\dimen125
+\scratchbox=\box30
+\nofMPsegments=\count116
+\nofMParguments=\count117
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count118
+\MPscratchDim=\dimen126
+\MPnumerator=\count119
+\makeMPintoPDFobject=\count120
+\everyMPtoPDFconversion=\toks23
+)
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-b
+ase.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwarer
+r.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty
+"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefine
+keys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.
+sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.
+sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetkey
+s.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmds
+.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluatex
+.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftexcm
+ds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 469.47049pt, 56.9055pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=469.47049pt
+* \textheight=702.78308pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 72.
+<pdg.png, id=1, 460.72125pt x 758.08218pt>
+File: pdg.png Graphic file (type png)
+<use pdg.png>
+Package pdftex.def Info: pdg.png  used on input line 73.
+(pdftex.def)             Requested size: 455.24373pt x 625.96918pt.
+ [1
+
+ <./pdg.png>]
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 80.
+
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\t1lmtt.fd"
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <24.88> not available
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 80.
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--87
+
+ []
+
+LaTeX Font Info:    Try loading font information for T1+pzc on input line 88.
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\t1pzc.fd"
+File: t1pzc.fd 2001/06/04 font definitions for T1/pzc.
+)
+LaTeX Font Info:    Font shape `T1/pzc/m/n' in size <17.28> not available
+(Font)              Font shape `T1/pzc/mb/it' tried instead on input line 88.
+
+
+LaTeX Font Warning: Font shape `T1/pzc/bx/n' undefined
+(Font)              using `T1/pzc/m/n' instead on input line 89.
+
+LaTeX Font Info:    Font shape `T1/pzc/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/pzc/mb/it' tried instead on input line 89.
+[2{C:/Users/slim/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 106--108
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--111
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--114
+
+ []
+
+[3] (rap.toc
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 4.
+
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\ot1lmr.fd"
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 4.
+
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omllmm.fd"
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 4.
+
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omslmsy.fd"
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 4.
+
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omxlmex.fd"
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 4.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 4.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 4.
+
+[4
+
+] [5] [6] [7] [8] [9] [10] [11] [12]
+Overfull \hbox (9.10548pt too wide) in paragraph at lines 158--158
+ \T1/lmr/m/n/12 "Consul-ter la liste des de-mandes des congé ac-cep-tés","Consu
+lter 
+ []
+
+)
+\tf@toc=\write3
+\openout3 = `rap.toc'.
+
+ [13] (rap.lof [14
+
+] [15] [16] [17]
+Overfull \hbox (3.68082pt too wide) in paragraph at lines 93--93
+ [][] []\T1/lmr/m/n/12 Diagramme de classes d'ana-lyse re-la-tif au cas d'uti-l
+i-sa-tion "Consul-ter le nombre 
+ []
+
+[18] [19] [20])
+\tf@lof=\write4
+\openout4 = `rap.lof'.
+
+ [21] (rap.lot [22
+
+])
+\tf@lot=\write5
+\openout5 = `rap.lot'.
+
+ [23]
+Underfull \hbox (badness 10000) in paragraph at lines 167--169
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--172
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--175
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--178
+
+ []
+
+[1
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 179--181
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--184
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--187
+
+ []
+
+[2]
+Chapitre 1.
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 192.
+
+("C:\Users\slim\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\t1lmss.fd"
+File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Underfull \hbox (badness 10000) in paragraph at lines 199--202
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--208
+
+ []
+
+[3
+
+]
+<Organigramme.png, id=92, 706.3188pt x 329.0694pt>
+File: Organigramme.png Graphic file (type png)
+<use Organigramme.png>
+Package pdftex.def Info: Organigramme.png  used on input line 247.
+(pdftex.def)             Requested size: 488.57835pt x 227.62204pt.
+
+Overfull \hbox (19.10786pt too wide) in paragraph at lines 247--248
+[][] 
+ []
+
+[4 <./Organigramme.png>] [5] [6]
+<pic1.jpg, id=105, 421.575pt x 249.93375pt>
+File: pic1.jpg Graphic file (type jpg)
+<use pic1.jpg>
+Package pdftex.def Info: pic1.jpg  used on input line 296.
+(pdftex.def)             Requested size: 479.9765pt x 284.52756pt.
+
+Overfull \hbox (10.50601pt too wide) in paragraph at lines 296--297
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 291--300
+
+ []
+
+[7 <./pic1.jpg>]
+<u.jpg, id=109, 746.01291pt x 559.50967pt>
+File: u.jpg Graphic file (type jpg)
+<use u.jpg>
+Package pdftex.def Info: u.jpg  used on input line 312.
+(pdftex.def)             Requested size: 373.00554pt x 279.75415pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 337--339
+
+ []
+
+[8 <./u.jpg>] [9]
+Underfull \hbox (badness 10000) in paragraph at lines 369--371
+
+ []
+
+[10] [11]
+Chapitre 2.
+[12
+
+]
+<c.png, id=126, 543.53062pt x 254.45062pt>
+File: c.png Graphic file (type png)
+<use c.png>
+Package pdftex.def Info: c.png  used on input line 419.
+(pdftex.def)             Requested size: 483.71584pt x 170.72174pt.
+
+Overfull \hbox (14.24535pt too wide) in paragraph at lines 419--420
+[][] 
+ []
+
+[13 <./c.png>]
+<d.png, id=130, 600.74437pt x 425.33907pt>
+File: d.png Graphic file (type png)
+<use d.png>
+Package pdftex.def Info: d.png  used on input line 431.
+(pdftex.def)             Requested size: 455.25964pt x 341.45291pt.
+ [14 <./d.png>] [15] [16]
+Underfull \hbox (badness 1502) in paragraph at lines 513--515
+[]|\T1/lmr/m/n/12 Supervise les tra-vaux ef-fec-tués
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--518
+[]|\T1/lmr/m/n/12 Renseigne au sein de
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 520--520
+\T1/lmr/m/n/12 le-ment de la ges-tion des
+ []
+
+
+Overfull \hbox (23.37357pt too wide) in paragraph at lines 507--525
+ [] 
+ []
+
+[17]
+<f.PNG, id=144, 545.78906pt x 773.13844pt>
+File: f.PNG Graphic file (type png)
+<use f.PNG>
+Package pdftex.def Info: f.PNG  used on input line 534.
+(pdftex.def)             Requested size: 512.18399pt x 483.69403pt.
+
+Overfull \hbox (42.7135pt too wide) in paragraph at lines 534--535
+ [] 
+ []
+
+[18 <./f.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 586--586
+[]|\T1/lmr/m/n/12 Consulter les de-mandes des
+ []
+
+
+Overfull \hbox (23.37357pt too wide) in paragraph at lines 547--594
+ [] 
+ []
+
+[19]
+<auth.png, id=151, 242.40562pt x 51.19125pt>
+File: auth.png Graphic file (type png)
+<use auth.png>
+Package pdftex.def Info: auth.png  used on input line 607.
+(pdftex.def)             Requested size: 227.63197pt x 36.99123pt.
+
+Overfull \hbox (27.02634pt too wide) in paragraph at lines 619--656
+ [] 
+ []
+
+[20 <./auth.png>]
+<admin1.png, id=156, 512.66531pt x 176.91093pt>
+File: admin1.png Graphic file (type png)
+<use admin1.png>
+Package pdftex.def Info: admin1.png  used on input line 665.
+(pdftex.def)             Requested size: 369.88535pt x 170.71797pt.
+
+Overfull \hbox (27.02634pt too wide) in paragraph at lines 676--712
+ [] 
+ []
+
+[21 <./admin1.png>]
+<a3.PNG, id=160, 603.75563pt x 106.14656pt>
+File: a3.PNG Graphic file (type png)
+<use a3.PNG>
+Package pdftex.def Info: a3.PNG  used on input line 718.
+(pdftex.def)             Requested size: 369.88417pt x 56.90527pt.
+
+Overfull \hbox (27.02634pt too wide) in paragraph at lines 727--759
+ [] 
+ []
+
+<a4.PNG, id=161, 603.75563pt x 96.36pt>
+File: a4.PNG Graphic file (type png)
+<use a4.PNG>
+Package pdftex.def Info: a4.PNG  used on input line 764.
+(pdftex.def)             Requested size: 369.88417pt x 56.90482pt.
+
+Overfull \hbox (1.04689pt too wide) in paragraph at lines 715--768
+\T1/lmr/m/n/12 Après être au-then-ti-fié, l'ad-mi-nis-tra-teur peut consul-ter 
+la liste des en-sei-gnants comme l'illustre
+ []
+
+[22 <./a3.PNG> <./a4.PNG>]
+Overfull \hbox (27.02634pt too wide) in paragraph at lines 774--823
+ [] 
+ []
+
+<a6.PNG, id=165, 603.75563pt x 161.10187pt>
+File: a6.PNG Graphic file (type png)
+<use a6.PNG>
+Package pdftex.def Info: a6.PNG  used on input line 828.
+(pdftex.def)             Requested size: 369.88417pt x 108.12451pt.
+[23 <./a6.PNG>]
+Overfull \hbox (27.02634pt too wide) in paragraph at lines 838--881
+ [] 
+ []
+
+<a8.PNG, id=169, 603.75563pt x 161.10187pt>
+File: a8.PNG Graphic file (type png)
+<use a8.PNG>
+Package pdftex.def Info: a8.PNG  used on input line 886.
+(pdftex.def)             Requested size: 369.88417pt x 113.81528pt.
+[24 <./a8.PNG>]
+<admin2.png, id=173, 512.66531pt x 176.91093pt>
+File: admin2.png Graphic file (type png)
+<use admin2.png>
+Package pdftex.def Info: admin2.png  used on input line 900.
+(pdftex.def)             Requested size: 426.795pt x 170.71797pt.
+
+Overfull \hbox (27.02634pt too wide) in paragraph at lines 909--945
+ [] 
+ []
+
+<a1.PNG, id=174, 603.75563pt x 104.64093pt>
+File: a1.PNG Graphic file (type png)
+<use a1.PNG>
+Package pdftex.def Info: a1.PNG  used on input line 950.
+(pdftex.def)             Requested size: 369.88417pt x 56.90442pt.
+[25 <./admin2.png>]
+Overfull \hbox (27.02634pt too wide) in paragraph at lines 962--994
+ [] 
+ []
+
+<a2.PNG, id=178, 603.75563pt x 104.64093pt>
+File: a2.PNG Graphic file (type png)
+<use a2.PNG>
+Package pdftex.def Info: a2.PNG  used on input line 999.
+(pdftex.def)             Requested size: 369.88417pt x 56.90442pt.
+[26 <./a1.PNG> <./a2.PNG>]
+Overfull \hbox (27.02634pt too wide) in paragraph at lines 1009--1058
+ [] 
+ []
+
+File: a6.PNG Graphic file (type png)
+<use a6.PNG>
+Package pdftex.def Info: a6.PNG  used on input line 1063.
+(pdftex.def)             Requested size: 341.42657pt x 99.58713pt.
+[27]
+Overfull \hbox (27.02634pt too wide) in paragraph at lines 1073--1116
+ [] 
+ []
+
+<a5.PNG, id=186, 603.75563pt x 143.03438pt>
+File: a5.PNG Graphic file (type png)
+<use a5.PNG>
+Package pdftex.def Info: a5.PNG  used on input line 1121.
+(pdftex.def)             Requested size: 341.42657pt x 113.81216pt.
+[28 <./a5.PNG>]
+<int.png, id=190, 152.06813pt x 79.04532pt>
+File: int.png Graphic file (type png)
+<use int.png>
+Package pdftex.def Info: int.png  used on input line 1156.
+(pdftex.def)             Requested size: 28.45236pt x 28.45267pt.
+<cntrl.png, id=191, 127.22531pt x 94.85437pt>
+File: cntrl.png Graphic file (type png)
+<use cntrl.png>
+Package pdftex.def Info: cntrl.png  used on input line 1168.
+(pdftex.def)             Requested size: 28.45168pt x 28.45218pt.
+ [29 <./int.png> <./cntrl.png>]
+<entite.png, id=197, 118.19156pt x 93.34875pt>
+File: entite.png Graphic file (type png)
+<use entite.png>
+Package pdftex.def Info: entite.png  used on input line 1186.
+(pdftex.def)             Requested size: 28.45311pt x 28.45209pt.
+<t1.png, id=198, 414.04688pt x 203.25937pt>
+File: t1.png Graphic file (type png)
+<use t1.png>
+Package pdftex.def Info: t1.png  used on input line 1199.
+(pdftex.def)             Requested size: 398.35234pt x 227.63033pt.
+ [30 <./entite.png> <./t1.png>]
+<aj_ens.png, id=203, 536.75531pt x 200.24812pt>
+File: aj_ens.png Graphic file (type png)
+<use aj_ens.png>
+Package pdftex.def Info: aj_ens.png  used on input line 1210.
+(pdftex.def)             Requested size: 398.33932pt x 156.49846pt.
+<traconsens.png, id=204, 536.75531pt x 200.24812pt>
+File: traconsens.png Graphic file (type png)
+<use traconsens.png>
+Package pdftex.def Info: traconsens.png  used on input line 1219.
+(pdftex.def)             Requested size: 369.88652pt x 170.72504pt.
+<mod_ens.png, id=205, 600.74437pt x 200.24812pt>
+File: mod_ens.png Graphic file (type png)
+<use mod_ens.png>
+Package pdftex.def Info: mod_ens.png  used on input line 1231.
+(pdftex.def)             Requested size: 369.90018pt x 170.72504pt.
+
+[31 <./aj_ens.png> <./traconsens.png>]
+<sup_ens.png, id=209, 600.74437pt x 200.24812pt>
+File: sup_ens.png Graphic file (type png)
+<use sup_ens.png>
+Package pdftex.def Info: sup_ens.png  used on input line 1240.
+(pdftex.def)             Requested size: 369.90018pt x 142.27188pt.
+<tap.png, id=210, 556.32843pt x 200.24812pt>
+File: tap.png Graphic file (type png)
+<use tap.png>
+Package pdftex.def Info: tap.png  used on input line 1250.
+(pdftex.def)             Requested size: 398.34056pt x 170.72504pt.
+ [32 <./mod_ens.png> <./sup_ens.png>]
+<traconsabs.png, id=215, 559.33969pt x 200.24812pt>
+File: traconsabs.png Graphic file (type png)
+<use traconsabs.png>
+Package pdftex.def Info: traconsabs.png  used on input line 1259.
+(pdftex.def)             Requested size: 398.35443pt x 170.72504pt.
+<tma.png, id=216, 598.48593pt x 200.24812pt>
+File: tma.png Graphic file (type png)
+<use tma.png>
+Package pdftex.def Info: tma.png  used on input line 1270.
+(pdftex.def)             Requested size: 398.3443pt x 142.27188pt.
+
+[33 <./tap.png> <./traconsabs.png>]
+<tracsupp.png, id=220, 598.48593pt x 200.24812pt>
+File: tracsupp.png Graphic file (type png)
+<use tracsupp.png>
+Package pdftex.def Info: tracsupp.png  used on input line 1280.
+(pdftex.def)             Requested size: 398.3443pt x 170.72504pt.
+ [34 <./tma.png> <./tracsupp.png>]
+<classid.png, id=224, 371.13657pt x 71.51718pt>
+File: classid.png Graphic file (type png)
+<use classid.png>
+Package pdftex.def Info: classid.png  used on input line 1293.
+(pdftex.def)             Requested size: 341.43845pt x 56.90607pt.
+<cl_aj.png, id=225, 583.42969pt x 129.48375pt>
+File: cl_aj.png Graphic file (type png)
+<use cl_aj.png>
+Package pdftex.def Info: cl_aj.png  used on input line 1301.
+(pdftex.def)             Requested size: 341.44298pt x 102.43526pt.
+<cap.png, id=226, 361.35pt x 71.51718pt>
+File: cap.png Graphic file (type png)
+<use cap.png>
+Package pdftex.def Info: cap.png  used on input line 1309.
+(pdftex.def)             Requested size: 341.43344pt x 56.90607pt.
+ [35 <./classid.png> <./cl_aj.png>] [36 <./cap.png>]
+<colla_adm_authentification.png, id=234, 506.6428pt x 236.38312pt>
+File: colla_adm_authentification.png Graphic file (type png)
+<use colla_adm_authentification.png>
+Package pdftex.def Info: colla_adm_authentification.png  used on input line 132
+8.
+(pdftex.def)             Requested size: 398.3494pt x 156.49306pt.
+<collaajoutens.png, id=235, 427.5975pt x 248.42813pt>
+File: collaajoutens.png Graphic file (type png)
+<use collaajoutens.png>
+Package pdftex.def Info: collaajoutens.png  used on input line 1338.
+(pdftex.def)             Requested size: 398.34012pt x 156.4916pt.
+<collaconsens.PNG, id=236, 367.3725pt x 222.07968pt>
+File: collaconsens.PNG Graphic file (type png)
+<use collaconsens.PNG>
+Package pdftex.def Info: collaconsens.PNG  used on input line 1347.
+(pdftex.def)             Requested size: 398.36519pt x 156.48825pt.
+ [37 <./colla_adm_authentification.png> <./collaajoutens.png>]
+<colla_adm_modifierenseignant.png, id=240, 572.1375pt x 349.305pt>
+File: colla_adm_modifierenseignant.png Graphic file (type png)
+<use colla_adm_modifierenseignant.png>
+Package pdftex.def Info: colla_adm_modifierenseignant.png  used on input line 1
+358.
+(pdftex.def)             Requested size: 398.3459pt x 170.71855pt.
+<colla_adm_supprimerenseignant.png, id=241, 559.33969pt x 319.1925pt>
+File: colla_adm_supprimerenseignant.png Graphic file (type png)
+<use colla_adm_supprimerenseignant.png>
+Package pdftex.def Info: colla_adm_supprimerenseignant.png  used on input line 
+1367.
+(pdftex.def)             Requested size: 341.44421pt x 170.71515pt.
+ [38 <./collaconsens.PNG> <./colla_adm_modifierenseignant.png>]
+<collaajoutper.PNG, id=246, 414.04688pt x 248.42813pt>
+File: collaajoutper.PNG Graphic file (type png)
+<use collaajoutper.PNG>
+Package pdftex.def Info: collaajoutper.PNG  used on input line 1375.
+(pdftex.def)             Requested size: 341.44125pt x 156.4916pt.
+<collaconsper.PNG, id=247, 367.3725pt x 225.84375pt>
+File: collaconsper.PNG Graphic file (type png)
+<use collaconsper.PNG>
+Package pdftex.def Info: collaconsper.PNG  used on input line 1385.
+(pdftex.def)             Requested size: 398.36519pt x 142.27196pt.
+ [39 <./colla_adm_supprimerenseignant.png> <./collaajoutper.PNG>]
+<colla_adm_modifierpersonnel.PNG, id=251, 578.16pt x 346.29375pt>
+File: colla_adm_modifierpersonnel.PNG Graphic file (type png)
+<use colla_adm_modifierpersonnel.PNG>
+Package pdftex.def Info: colla_adm_modifierpersonnel.PNG  used on input line 13
+95.
+(pdftex.def)             Requested size: 398.33975pt x 184.94563pt.
+<colla_adm_supprimerpersonnel.PNG, id=252, 556.32843pt x 329.73187pt>
+File: colla_adm_supprimerpersonnel.PNG Graphic file (type png)
+<use colla_adm_supprimerpersonnel.PNG>
+Package pdftex.def Info: colla_adm_supprimerpersonnel.PNG  used on input line 1
+405.
+(pdftex.def)             Requested size: 341.43962pt x 199.17393pt.
+
+[40 <./collaconsper.PNG> <./colla_adm_modifierpersonnel.PNG>]
+Overfull \hbox (5.32394pt too wide) in paragraph at lines 1411--1412
+[]\T1/lmr/m/n/12 La concep-tion dans cette phase consiste à conce-voir les cas 
+d'uti-li-sa-tions, nous al-lons construire
+ []
+
+<cl_auth.PNG, id=256, 368.87813pt x 173.89969pt>
+File: cl_auth.PNG Graphic file (type png)
+<use cl_auth.PNG>
+Package pdftex.def Info: cl_auth.PNG  used on input line 1418.
+(pdftex.def)             Requested size: 341.43205pt x 99.58289pt.
+[41 <./colla_adm_supprimerpersonnel.PNG>]
+<cl_ge.PNG, id=260, 368.87813pt x 255.95625pt>
+File: cl_ge.PNG Graphic file (type png)
+<use cl_ge.PNG>
+Package pdftex.def Info: cl_ge.PNG  used on input line 1427.
+(pdftex.def)             Requested size: 312.97939pt x 142.26439pt.
+<cl_gp.PNG, id=261, 368.87813pt x 293.59688pt>
+File: cl_gp.PNG Graphic file (type png)
+<use cl_gp.PNG>
+Package pdftex.def Info: cl_gp.PNG  used on input line 1437.
+(pdftex.def)             Requested size: 312.97939pt x 199.16835pt.
+ [42 <./cl_auth.PNG> <./cl_ge.PNG>]
+[43 <./cl_gp.PNG>]
+<ca.PNG, id=268, 611.28375pt x 523.20468pt>
+File: ca.PNG Graphic file (type png)
+<use ca.PNG>
+Package pdftex.def Info: ca.PNG  used on input line 1452.
+(pdftex.def)             Requested size: 512.169pt x 483.70926pt.
+
+Overfull \hbox (42.69852pt too wide) in paragraph at lines 1452--1453
+ [] 
+ []
+
+[44 <./ca.PNG>]
+<sae.PNG, id=273, 566.115pt x 625.58719pt>
+File: sae.PNG Graphic file (type png)
+<use sae.PNG>
+Package pdftex.def Info: sae.PNG  used on input line 1462.
+(pdftex.def)             Requested size: 512.19391pt x 483.70822pt.
+
+Overfull \hbox (42.72342pt too wide) in paragraph at lines 1462--1463
+ [] 
+ []
+
+[45 <./sae.PNG>]
+<sec_cons_ens.PNG, id=277, 501.37312pt x 325.215pt>
+File: sec_cons_ens.PNG Graphic file (type png)
+<use sec_cons_ens.PNG>
+Package pdftex.def Info: sec_cons_ens.PNG  used on input line 1472.
+(pdftex.def)             Requested size: 512.20474pt x 483.7323pt.
+
+Overfull \hbox (42.73425pt too wide) in paragraph at lines 1472--1473
+ [] 
+ []
+
+[46 <./sec_cons_ens.PNG>]
+<sec_modif_ens.PNG, id=281, 566.115pt x 661.72218pt>
+File: sec_modif_ens.PNG Graphic file (type png)
+<use sec_modif_ens.PNG>
+Package pdftex.def Info: sec_modif_ens.PNG  used on input line 1482.
+(pdftex.def)             Requested size: 512.19391pt x 483.68929pt.
+
+Overfull \hbox (42.72342pt too wide) in paragraph at lines 1482--1483
+ [] 
+ []
+
+[47 <./sec_modif_ens.PNG>]
+<sec_sup_ens.PNG, id=285, 566.115pt x 624.08156pt>
+File: sec_sup_ens.PNG Graphic file (type png)
+<use sec_sup_ens.PNG>
+Package pdftex.def Info: sec_sup_ens.PNG  used on input line 1492.
+(pdftex.def)             Requested size: 512.19391pt x 483.70583pt.
+
+Overfull \hbox (42.72342pt too wide) in paragraph at lines 1492--1493
+ [] 
+ []
+
+[48 <./sec_sup_ens.PNG>]
+<sap.PNG, id=289, 566.115pt x 625.58719pt>
+File: sap.PNG Graphic file (type png)
+<use sap.PNG>
+Package pdftex.def Info: sap.PNG  used on input line 1502.
+(pdftex.def)             Requested size: 398.35097pt x 341.4394pt.
+ [49 <./sap.PNG>]
+<sec_cons_per.PNG, id=293, 502.87875pt x 335.00156pt>
+File: sec_cons_per.PNG Graphic file (type png)
+<use sec_cons_per.PNG>
+Package pdftex.def Info: sec_cons_per.PNG  used on input line 1512.
+(pdftex.def)             Requested size: 512.14687pt x 483.69513pt.
+
+Overfull \hbox (42.67638pt too wide) in paragraph at lines 1512--1513
+ [] 
+ []
+
+[50 <./sec_cons_per.PNG>]
+<sec_modif_per.PNG, id=298, 566.115pt x 718.18312pt>
+File: sec_modif_per.PNG Graphic file (type png)
+<use sec_modif_per.PNG>
+Package pdftex.def Info: sec_modif_per.PNG  used on input line 1522.
+(pdftex.def)             Requested size: 512.19391pt x 483.71162pt.
+
+Overfull \hbox (42.72342pt too wide) in paragraph at lines 1522--1523
+ [] 
+ []
+
+[51 <./sec_modif_per.PNG>]
+<sec_sup_per.PNG, id=302, 566.115pt x 624.08156pt>
+File: sec_sup_per.PNG Graphic file (type png)
+<use sec_sup_per.PNG>
+Package pdftex.def Info: sec_sup_per.PNG  used on input line 1532.
+(pdftex.def)             Requested size: 512.19391pt x 483.70583pt.
+
+Overfull \hbox (42.72342pt too wide) in paragraph at lines 1532--1533
+ [] 
+ []
+
+[52 <./sec_sup_per.PNG>]
+<Brackets_Icon.png, id=306, 803.0pt x 803.0pt>
+File: Brackets_Icon.png Graphic file (type png)
+<use Brackets_Icon.png>
+Package pdftex.def Info: Brackets_Icon.png  used on input line 1549.
+(pdftex.def)             Requested size: 17.07182pt x 17.06812pt.
+<800px-Visual_Studio_Code.png, id=307, 803.0pt x 799.98875pt>
+File: 800px-Visual_Studio_Code.png Graphic file (type png)
+<use 800px-Visual_Studio_Code.png>
+Package pdftex.def Info: 800px-Visual_Studio_Code.png  used on input line 1553.
+
+(pdftex.def)             Requested size: 17.07182pt x 17.0041pt.
+<Xampp_logo.png, id=308, 1927.2pt x 502.87875pt>
+File: Xampp_logo.png Graphic file (type png)
+<use Xampp_logo.png>
+Package pdftex.def Info: Xampp_logo.png  used on input line 1557.
+(pdftex.def)             Requested size: 22.76228pt x 5.93913pt.
+ [53 <./Brackets_Icon.png> <./800px-Visual_Studio_Code.png> <./Xampp_logo.png>]
+<HTML_logo.png, id=315, 803.0pt x 803.0pt>
+File: HTML_logo.png Graphic file (type png)
+<use HTML_logo.png>
+Package pdftex.def Info: HTML_logo.png  used on input line 1562.
+(pdftex.def)             Requested size: 22.76228pt x 22.7534pt.
+<CSS3_logo_and_wordmark.png, id=316, 1204.5pt x 1699.34875pt>
+File: CSS3_logo_and_wordmark.png Graphic file (type png)
+<use CSS3_logo_and_wordmark.png>
+Package pdftex.def Info: CSS3_logo_and_wordmark.png  used on input line 1566.
+(pdftex.def)             Requested size: 22.76228pt x 32.10126pt.
+<bootstrap-4-the-most-popular-html-css-and-js-library.png, id=317, 401.5pt x 32
+1.2pt>
+File: bootstrap-4-the-most-popular-html-css-and-js-library.png Graphic file (ty
+pe png)
+<use bootstrap-4-the-most-popular-html-css-and-js-library.png>
+Package pdftex.def Info: bootstrap-4-the-most-popular-html-css-and-js-library.p
+ng  used on input line 1570.
+(pdftex.def)             Requested size: 22.76228pt x 18.20763pt.
+<logo_javascript.png, id=318, 738.76pt x 451.6875pt>
+File: logo_javascript.png Graphic file (type png)
+<use logo_javascript.png>
+Package pdftex.def Info: logo_javascript.png  used on input line 1574.
+(pdftex.def)             Requested size: 22.76228pt x 13.91531pt.
+ [54 <./HTML_logo.png> <./CSS3_logo_and_wordmark.png> <./bootstrap-4-the-most-p
+opular-html-css-and-js-library.png> <./logo_javascript.png>]
+<1280px-PHP-logo.png, id=325, 1284.8pt x 693.59125pt>
+File: 1280px-PHP-logo.png Graphic file (type png)
+<use 1280px-PHP-logo.png>
+Package pdftex.def Info: 1280px-PHP-logo.png  used on input line 1579.
+(pdftex.def)             Requested size: 22.76228pt x 12.28725pt.
+<illu_ajax-et-l-echange-de-donnees-en-javascript.png, id=326, 441.65pt x 311.16
+25pt>
+File: illu_ajax-et-l-echange-de-donnees-en-javascript.png Graphic file (type pn
+g)
+<use illu_ajax-et-l-echange-de-donnees-en-javascript.png>
+Package pdftex.def Info: illu_ajax-et-l-echange-de-donnees-en-javascript.png  u
+sed on input line 1583.
+(pdftex.def)             Requested size: 22.76228pt x 16.03383pt.
+<MySQL-Logo.png, id=327, 622.325pt x 331.2375pt>
+File: MySQL-Logo.png Graphic file (type png)
+<use MySQL-Logo.png>
+Package pdftex.def Info: MySQL-Logo.png  used on input line 1588.
+(pdftex.def)             Requested size: 22.76228pt x 12.11508pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1594--1595
+
+ []
+
+[55 <./1280px-PHP-logo.png> <./illu_ajax-et-l-echange-de-donnees-en-javascript.
+png> <./MySQL-Logo.png>]
+<login.PNG, id=333, 1201.48875pt x 645.91313pt>
+File: login.PNG Graphic file (type png)
+<use login.PNG>
+Package pdftex.def Info: login.PNG  used on input line 1601.
+(pdftex.def)             Requested size: 512.1568pt x 341.43546pt.
+
+Overfull \hbox (42.68631pt too wide) in paragraph at lines 1601--1602
+ [] 
+ []
+
+[56 <./login.PNG>]
+<ajouter_enseignant.PNG, id=339, 1203.7472pt x 644.4075pt>
+File: ajouter_enseignant.PNG Graphic file (type png)
+<use ajouter_enseignant.PNG>
+Package pdftex.def Info: ajouter_enseignant.PNG  used on input line 1609.
+(pdftex.def)             Requested size: 512.16437pt x 213.3926pt.
+
+Overfull \hbox (42.69388pt too wide) in paragraph at lines 1609--1610
+ [] 
+ []
+
+<consulter_enseignant.PNG, id=340, 1203.7472pt x 647.41875pt>
+File: consulter_enseignant.PNG Graphic file (type png)
+<use consulter_enseignant.PNG>
+Package pdftex.def Info: consulter_enseignant.PNG  used on input line 1617.
+(pdftex.def)             Requested size: 512.16437pt x 220.50473pt.
+
+Overfull \hbox (42.69388pt too wide) in paragraph at lines 1617--1618
+ [] 
+ []
+
+[57 <./ajouter_enseignant.PNG> <./consulter_enseignant.PNG>]
+<modifier_enseignant.PNG, id=346, 1073.51062pt x 648.17157pt>
+File: modifier_enseignant.PNG Graphic file (type png)
+<use modifier_enseignant.PNG>
+Package pdftex.def Info: modifier_enseignant.PNG  used on input line 1626.
+(pdftex.def)             Requested size: 512.15057pt x 220.50398pt.
+
+Overfull \hbox (42.68008pt too wide) in paragraph at lines 1626--1627
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1623--1631
+
+ []
+
+<ajouter_pc.PNG, id=347, 1202.24156pt x 647.41875pt>
+File: ajouter_pc.PNG Graphic file (type png)
+<use ajouter_pc.PNG>
+Package pdftex.def Info: ajouter_pc.PNG  used on input line 1635.
+(pdftex.def)             Requested size: 512.16583pt x 213.392pt.
+
+Overfull \hbox (42.69534pt too wide) in paragraph at lines 1635--1636
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1632--1640
+
+ []
+
+<consulter_pc.PNG, id=348, 1202.99437pt x 645.16031pt>
+File: consulter_pc.PNG Graphic file (type png)
+<use consulter_pc.PNG>
+Package pdftex.def Info: consulter_pc.PNG  used on input line 1644.
+(pdftex.def)             Requested size: 512.15613pt x 213.39577pt.
+
+Overfull \hbox (42.68564pt too wide) in paragraph at lines 1644--1645
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1641--1649
+
+ []
+
+[58 <./modifier_enseignant.PNG> <./ajouter_pc.PNG>]
+<modifier_pc.PNG, id=354, 1074.26344pt x 647.41875pt>
+File: modifier_pc.PNG Graphic file (type png)
+<use modifier_pc.PNG>
+Package pdftex.def Info: modifier_pc.PNG  used on input line 1653.
+(pdftex.def)             Requested size: 512.14912pt x 220.50473pt.
+
+Overfull \hbox (42.67863pt too wide) in paragraph at lines 1653--1654
+ [] 
+ []
+
+[59 <./consulter_pc.PNG> <./modifier_pc.PNG>]
+<ajouter_pa.PNG, id=360, 1204.5pt x 647.41875pt>
+File: ajouter_pa.PNG Graphic file (type png)
+<use ajouter_pa.PNG>
+Package pdftex.def Info: ajouter_pa.PNG  used on input line 1662.
+(pdftex.def)             Requested size: 512.17223pt x 220.50473pt.
+
+Overfull \hbox (42.70174pt too wide) in paragraph at lines 1662--1663
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1659--1667
+
+ []
+
+<consulter_pa.PNG, id=361, 1204.5pt x 645.16031pt>
+File: consulter_pa.PNG Graphic file (type png)
+<use consulter_pa.PNG>
+Package pdftex.def Info: consulter_pa.PNG  used on input line 1671.
+(pdftex.def)             Requested size: 512.17223pt x 220.50339pt.
+
+Overfull \hbox (42.70174pt too wide) in paragraph at lines 1671--1672
+ [] 
+ []
+
+[60 <./ajouter_pa.PNG> <./consulter_pa.PNG>]
+<modifier_pa.PNG, id=367, 1073.51062pt x 648.17157pt>
+File: modifier_pa.PNG Graphic file (type png)
+<use modifier_pa.PNG>
+Package pdftex.def Info: modifier_pa.PNG  used on input line 1680.
+(pdftex.def)             Requested size: 512.15057pt x 256.07936pt.
+
+Overfull \hbox (42.68008pt too wide) in paragraph at lines 1680--1681
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1677--1685
+
+ []
+
+[61 <./modifier_pa.PNG>]
+Chapitre 3.
+[62
+
+]
+<enseignant1.png, id=376, 590.205pt x 208.52907pt>
+File: enseignant1.png Graphic file (type png)
+<use enseignant1.png>
+Package pdftex.def Info: enseignant1.png  used on input line 1704.
+(pdftex.def)             Requested size: 284.52898pt x 85.35745pt.
+
+Overfull \hbox (27.02634pt too wide) in paragraph at lines 1715--1747
+ [] 
+ []
+
+<enseignant2.png, id=377, 607.51968pt x 142.28156pt>
+File: enseignant2.png Graphic file (type png)
+<use enseignant2.png>
+Package pdftex.def Info: enseignant2.png  used on input line 1755.
+(pdftex.def)             Requested size: 341.4416pt x 76.82437pt.
+
+Overfull \hbox (27.02634pt too wide) in paragraph at lines 1767--1794
+ [] 
+ []
+
+<ee.png, id=378, 504.38437pt x 87.32625pt>
+File: ee.png Graphic file (type png)
+<use ee.png>
+Package pdftex.def Info: ee.png  used on input line 1800.
+(pdftex.def)             Requested size: 312.98444pt x 28.45264pt.
+[63 <./enseignant1.png>]
+Overfull \hbox (27.02634pt too wide) in paragraph at lines 1812--1850
+ [] 
+ []
+
+[64 <./enseignant2.png> <./ee.png>] [65]
+Underfull \hbox (badness 10000) in paragraph at lines 1854--1855
+
+ []
+
+<enseignant3.png, id=388, 542.025pt x 189.70876pt>
+File: enseignant3.png Graphic file (type png)
+<use enseignant3.png>
+Package pdftex.def Info: enseignant3.png  used on input line 1859.
+(pdftex.def)             Requested size: 284.5343pt x 113.81165pt.
+
+Overfull \hbox (27.02634pt too wide) in paragraph at lines 1871--1902
+ [] 
+ []
+
+<enseignant4.png, id=389, 609.02531pt x 227.34938pt>
+File: enseignant4.png Graphic file (type png)
+<use enseignant4.png>
+Package pdftex.def Info: enseignant4.png  used on input line 1909.
+(pdftex.def)             Requested size: 341.44215pt x 85.35986pt.
+
+Overfull \hbox (27.02634pt too wide) in paragraph at lines 1921--1950
+ [] 
+ []
+
+<ec.png, id=390, 588.69937pt x 95.6072pt>
+File: ec.png Graphic file (type png)
+<use ec.png>
+Package pdftex.def Info: ec.png  used on input line 1956.
+(pdftex.def)             Requested size: 341.43689pt x 42.67854pt.
+[66 <./enseignant3.png>] [67 <./enseignant4.png>]
+Overfull \hbox (27.02634pt too wide) in paragraph at lines 1968--2007
+ [] 
+ []
+
+<e41.png, id=397, 609.02531pt x 227.34938pt>
+File: e41.png Graphic file (type png)
+<use e41.png>
+Package pdftex.def Info: e41.png  used on input line 2013.
+(pdftex.def)             Requested size: 398.35228pt x 71.13322pt.
+[68 <./ec.png> <./e41.png>]
+Overfull \hbox (27.02634pt too wide) in paragraph at lines 2025--2063
+ [] 
+ []
+
+<e42.png, id=402, 599.23875pt x 161.10187pt>
+File: e42.png Graphic file (type png)
+<use e42.png>
+Package pdftex.def Info: e42.png  used on input line 2069.
+(pdftex.def)             Requested size: 341.44162pt x 113.81528pt.
+[69 <./e42.png>]
+<enseignant7.PNG, id=406, 552.56438pt x 95.6072pt>
+File: enseignant7.PNG Graphic file (type png)
+<use enseignant7.PNG>
+Package pdftex.def Info: enseignant7.PNG  used on input line 2078.
+(pdftex.def)             Requested size: 398.33507pt x 113.81625pt.
+
+Overfull \hbox (27.02634pt too wide) in paragraph at lines 2088--2113
+ [] 
+ []
+
+[70 <./enseignant7.PNG>]
+<enseignant6.PNG, id=410, 447.92343pt x 142.28156pt>
+File: enseignant6.PNG Graphic file (type png)
+<use enseignant6.PNG>
+Package pdftex.def Info: enseignant6.PNG  used on input line 2119.
+(pdftex.def)             Requested size: 398.34987pt x 113.81671pt.
+
+Overfull \hbox (27.02634pt too wide) in paragraph at lines 2129--2154
+ [] 
+ []
+
+[71 <./enseignant6.PNG>]
+<enseignant5.PNG, id=414, 569.87906pt x 104.64093pt>
+File: enseignant5.PNG Graphic file (type png)
+<use enseignant5.PNG>
+Package pdftex.def Info: enseignant5.PNG  used on input line 2163.
+(pdftex.def)             Requested size: 398.3387pt x 113.81044pt.
+
+Overfull \hbox (27.02634pt too wide) in paragraph at lines 2173--2198
+ [] 
+ []
+
+[72 <./enseignant5.PNG>]
+<tdr.PNG, id=418, 540.51938pt x 200.24812pt>
+File: tdr.PNG Graphic file (type png)
+<use tdr.PNG>
+Package pdftex.def Info: tdr.PNG  used on input line 2210.
+(pdftex.def)             Requested size: 398.34503pt x 128.0453pt.
+<tcr.PNG, id=419, 458.46281pt x 200.24812pt>
+File: tcr.PNG Graphic file (type png)
+<use tcr.PNG>
+Package pdftex.def Info: tcr.PNG  used on input line 2219.
+(pdftex.def)             Requested size: 398.35574pt x 128.0453pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<tmh.PNG, id=420, 592.46344pt x 200.24812pt>
+File: tmh.PNG Graphic file (type png)
+<use tmh.PNG>
+Package pdftex.def Info: tmh.PNG  used on input line 2228.
+(pdftex.def)             Requested size: 398.34969pt x 128.0453pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<tsr.PNG, id=421, 592.46344pt x 200.24812pt>
+File: tsr.PNG Graphic file (type png)
+<use tsr.PNG>
+Package pdftex.def Info: tsr.PNG  used on input line 2237.
+(pdftex.def)             Requested size: 398.34969pt x 128.0453pt.
+[73 <./tdr.PNG>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<tdcc.PNG, id=425, 530.73282pt x 200.24812pt>
+File: tdcc.PNG Graphic file (type png)
+<use tdcc.PNG>
+Package pdftex.def Info: tdcc.PNG  used on input line 2246.
+(pdftex.def)             Requested size: 398.34018pt x 128.0453pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<tcc.PNG, id=426, 456.95718pt x 201.75375pt>
+File: tcc.PNG Graphic file (type png)
+<use tcc.PNG>
+Package pdftex.def Info: tcc.PNG  used on input line 2255.
+(pdftex.def)             Requested size: 398.35138pt x 128.03831pt.
+[74 <./tcr.PNG> <./tmh.PNG>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<tmc.PNG, id=431, 546.54187pt x 201.75375pt>
+File: tmc.PNG Graphic file (type png)
+<use tmc.PNG>
+Package pdftex.def Info: tmc.PNG  used on input line 2264.
+(pdftex.def)             Requested size: 398.33844pt x 142.26411pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<tsc.PNG, id=432, 546.54187pt x 201.75375pt>
+File: tsc.PNG Graphic file (type png)
+<use tsc.PNG>
+Package pdftex.def Info: tsc.PNG  used on input line 2273.
+(pdftex.def)             Requested size: 398.33844pt x 142.26411pt.
+[75 <./tsr.PNG> <./tdcc.PNG>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<tccr.png, id=436, 459.96844pt x 201.75375pt>
+File: tccr.png Graphic file (type png)
+<use tccr.png>
+Package pdftex.def Info: tccr.png  used on input line 2282.
+(pdftex.def)             Requested size: 398.35852pt x 128.03831pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<cee.png, id=437, 476.53032pt x 201.75375pt>
+File: cee.png Graphic file (type png)
+<use cee.png>
+Package pdftex.def Info: cee.png  used on input line 2291.
+(pdftex.def)             Requested size: 398.35587pt x 128.03831pt.
+[76 <./tcc.PNG> <./tmc.PNG>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<tcna.PNG, id=441, 494.59781pt x 200.24812pt>
+File: tcna.PNG Graphic file (type png)
+<use tcna.PNG>
+Package pdftex.def Info: tcna.PNG  used on input line 2300.
+(pdftex.def)             Requested size: 398.3353pt x 128.0453pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[77 <./tsc.PNG> <./tccr.png>]
+<cdc.png, id=445, 354.57469pt x 71.51718pt>
+File: cdc.png Graphic file (type png)
+<use cdc.png>
+Package pdftex.def Info: cdc.png  used on input line 2312.
+(pdftex.def)             Requested size: 341.44286pt x 85.35966pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<cdr.png, id=446, 345.54094pt x 71.51718pt>
+File: cdr.png Graphic file (type png)
+<use cdr.png>
+Package pdftex.def Info: cdr.png  used on input line 2320.
+(pdftex.def)             Requested size: 341.43805pt x 99.58646pt.
+[78 <./cee.png> <./tcna.PNG>]
+<tet.png, id=450, 347.04657pt x 71.51718pt>
+File: tet.png Graphic file (type png)
+<use tet.png>
+Package pdftex.def Info: tet.png  used on input line 2328.
+(pdftex.def)             Requested size: 341.44307pt x 99.58646pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<ccna.png, id=451, 354.57469pt x 71.51718pt>
+File: ccna.png Graphic file (type png)
+<use ccna.png>
+Package pdftex.def Info: ccna.png  used on input line 2336.
+(pdftex.def)             Requested size: 341.44286pt x 99.58646pt.
+[79 <./cdc.png> <./cdr.png>]
+<colla_ens_demande_rattrapage.PNG, id=455, 396.7322pt x 226.59656pt>
+File: colla_ens_demande_rattrapage.PNG Graphic file (type png)
+<use colla_ens_demande_rattrapage.PNG>
+Package pdftex.def Info: colla_ens_demande_rattrapage.PNG  used on input line 2
+348.
+(pdftex.def)             Requested size: 398.34753pt x 142.26215pt.
+ [80 <./tet.png> <./ccna.png>]
+<cce.PNG, id=460, 380.17032pt x 280.79906pt>
+File: cce.PNG Graphic file (type png)
+<use cce.PNG>
+Package pdftex.def Info: cce.PNG  used on input line 2357.
+(pdftex.def)             Requested size: 341.44241pt x 128.03798pt.
+<colla_ens_modifierrattrapage.PNG, id=461, 548.0475pt x 354.57469pt>
+File: colla_ens_modifierrattrapage.PNG Graphic file (type png)
+<use colla_ens_modifierrattrapage.PNG>
+Package pdftex.def Info: colla_ens_modifierrattrapage.PNG  used on input line 2
+366.
+(pdftex.def)             Requested size: 398.34866pt x 156.49486pt.
+ [81 <./colla_ens_demande_rattrapage.PNG> <./cce.PNG>]
+<colla_ens_supprimerrattrapage.png, id=465, 627.84563pt x 328.97906pt>
+File: colla_ens_supprimerrattrapage.png Graphic file (type png)
+<use colla_ens_supprimerrattrapage.png>
+Package pdftex.def Info: colla_ens_supprimerrattrapage.png  used on input line 
+2375.
+(pdftex.def)             Requested size: 398.33266pt x 156.49257pt.
+<colla_ens_demandeconge.png, id=466, 397.485pt x 235.63031pt>
+File: colla_ens_demandeconge.png Graphic file (type png)
+<use colla_ens_demandeconge.png>
+Package pdftex.def Info: colla_ens_demandeconge.png  used on input line 2384.
+(pdftex.def)             Requested size: 398.35133pt x 156.49084pt.
+ [82 <./colla_ens_modifierrattrapage.PNG> <./colla_ens_supprimerrattrapage.png>
+]
+<collaconscontrai.PNG, id=470, 386.94562pt x 213.79875pt>
+File: collaconscontrai.PNG Graphic file (type png)
+<use collaconscontrai.PNG>
+Package pdftex.def Info: collaconscontrai.PNG  used on input line 2393.
+(pdftex.def)             Requested size: 341.43427pt x 99.58502pt.
+<colla_ens_modifierconge.PNG, id=471, 548.0475pt x 350.81062pt>
+File: colla_ens_modifierconge.PNG Graphic file (type png)
+<use colla_ens_modifierconge.PNG>
+Package pdftex.def Info: colla_ens_modifierconge.PNG  used on input line 2402.
+(pdftex.def)             Requested size: 398.34866pt x 153.6452pt.
+ [83 <./colla_ens_demandeconge.png> <./collaconscontrai.PNG>]
+<colla_ens_supprimerdemandeconge.png, id=475, 550.30594pt x 324.46219pt>
+File: colla_ens_supprimerdemandeconge.png Graphic file (type png)
+<use colla_ens_supprimerdemandeconge.png>
+Package pdftex.def Info: colla_ens_supprimerdemandeconge.png  used on input lin
+e 2411.
+(pdftex.def)             Requested size: 398.35281pt x 142.26375pt.
+<collaconscon.PNG, id=476, 386.94562pt x 213.79875pt>
+File: collaconscon.PNG Graphic file (type png)
+<use collaconscon.PNG>
+Package pdftex.def Info: collaconscon.PNG  used on input line 2420.
+(pdftex.def)             Requested size: 398.34589pt x 142.26245pt.
+ [84 <./colla_ens_modifierconge.PNG> <./colla_ens_supprimerdemandeconge.png>]
+<colla_ens_consulteremploi.PNG, id=480, 358.33875pt x 211.54031pt>
+File: colla_ens_consulteremploi.PNG Graphic file (type png)
+<use colla_ens_consulteremploi.PNG>
+Package pdftex.def Info: colla_ens_consulteremploi.PNG  used on input line 2429
+.
+(pdftex.def)             Requested size: 398.36218pt x 142.26707pt.
+<colla_ens_consulternombreabsence.PNG, id=481, 432.86719pt x 211.54031pt>
+File: colla_ens_consulternombreabsence.PNG Graphic file (type png)
+<use colla_ens_consulternombreabsence.PNG>
+Package pdftex.def Info: colla_ens_consulternombreabsence.PNG  used on input li
+ne 2438.
+(pdftex.def)             Requested size: 398.35492pt x 142.26707pt.
+ [85 <./collaconscon.PNG> <./colla_ens_consulteremploi.PNG>]
+Overfull \hbox (5.32394pt too wide) in paragraph at lines 2444--2445
+[]\T1/lmr/m/n/12 La concep-tion dans cette phase consiste à conce-voir les cas 
+d'uti-li-sa-tions, nous al-lons construire
+ []
+
+<cl_dr.PNG, id=485, 557.08125pt x 331.2375pt>
+File: cl_dr.PNG Graphic file (type png)
+<use cl_dr.PNG>
+Package pdftex.def Info: cl_dr.PNG  used on input line 2451.
+(pdftex.def)             Requested size: 455.25401pt x 284.54027pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<cl_dc.PNG, id=486, 500.62032pt x 274.77657pt>
+File: cl_dc.PNG Graphic file (type png)
+<use cl_dc.PNG>
+Package pdftex.def Info: cl_dc.PNG  used on input line 2460.
+(pdftex.def)             Requested size: 455.25964pt x 398.37387pt.
+[86 <./colla_ens_consulternombreabsence.PNG>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[87 <./cl_dr.PNG>]
+Overfull \hbox (4.7018pt too wide) in paragraph at lines 2466--2466
+[]\T1/lmr/bx/n/12 Diagramme de classes de concep-tion re-la-tif au cas d'uti-li
+-sa-tions  Consul-
+ []
+
+<cl_cna.PNG, id=494, 481.8pt x 305.64188pt>
+File: cl_cna.PNG Graphic file (type png)
+<use cl_cna.PNG>
+Package pdftex.def Info: cl_cna.PNG  used on input line 2470.
+(pdftex.def)             Requested size: 512.19795pt x 483.72034pt.
+
+Overfull \hbox (42.72746pt too wide) in paragraph at lines 2470--2471
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[88 <./cl_dc.PNG>]
+<sdr.PNG, id=498, 505.89pt x 419.31656pt>
+File: sdr.PNG Graphic file (type png)
+<use sdr.PNG>
+Package pdftex.def Info: sdr.PNG  used on input line 2482.
+(pdftex.def)             Requested size: 512.15677pt x 483.69467pt.
+
+Overfull \hbox (42.68628pt too wide) in paragraph at lines 2482--2483
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[89]
+<sec_cons_rat.PNG, id=502, 495.35063pt x 341.77687pt>
+File: sec_cons_rat.PNG Graphic file (type png)
+<use sec_cons_rat.PNG>
+Package pdftex.def Info: sec_cons_rat.PNG  used on input line 2492.
+(pdftex.def)             Requested size: 512.18205pt x 483.73073pt.
+
+Overfull \hbox (42.71156pt too wide) in paragraph at lines 2492--2493
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[90]
+<ssr.PNG, id=506, 566.115pt x 694.09312pt>
+File: ssr.PNG Graphic file (type png)
+<use ssr.PNG>
+Package pdftex.def Info: ssr.PNG  used on input line 2504.
+(pdftex.def)             Requested size: 512.19391pt x 483.7119pt.
+
+Overfull \hbox (42.72342pt too wide) in paragraph at lines 2504--2505
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (1.69281pt too wide) in paragraph at lines 2509--2509
+[]\T1/lmr/bx/n/12 Diagramme de sé-quences re-la-tif au cas d'uti-li-sa-tion  D
+e-man-der congé : 
+ []
+
+<sdc.PNG, id=507, 566.115pt x 466.74374pt>
+File: sdc.PNG Graphic file (type png)
+<use sdc.PNG>
+Package pdftex.def Info: sdc.PNG  used on input line 2513.
+(pdftex.def)             Requested size: 512.19391pt x 483.72127pt.
+
+Overfull \hbox (42.72342pt too wide) in paragraph at lines 2513--2514
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<scc.PNG, id=508, 498.36188pt x 372.64218pt>
+File: scc.PNG Graphic file (type png)
+<use scc.PNG>
+Package pdftex.def Info: scc.PNG  used on input line 2522.
+(pdftex.def)             Requested size: 512.19302pt x 483.71265pt.
+
+Overfull \hbox (42.72253pt too wide) in paragraph at lines 2522--2523
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<smc.PNG, id=509, 566.115pt x 718.18312pt>
+File: smc.PNG Graphic file (type png)
+<use smc.PNG>
+Package pdftex.def Info: smc.PNG  used on input line 2531.
+(pdftex.def)             Requested size: 512.19391pt x 483.71162pt.
+
+Overfull \hbox (42.72342pt too wide) in paragraph at lines 2531--2532
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<ssc.PNG, id=510, 566.115pt x 694.09312pt>
+File: ssc.PNG Graphic file (type png)
+<use ssc.PNG>
+Package pdftex.def Info: ssc.PNG  used on input line 2540.
+(pdftex.def)             Requested size: 512.19391pt x 483.7119pt.
+
+Overfull \hbox (42.72342pt too wide) in paragraph at lines 2540--2541
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<scct.PNG, id=511, 498.36188pt x 372.64218pt>
+File: scct.PNG Graphic file (type png)
+<use scct.PNG>
+Package pdftex.def Info: scct.PNG  used on input line 2551.
+(pdftex.def)             Requested size: 512.19302pt x 483.71265pt.
+
+Overfull \hbox (42.72253pt too wide) in paragraph at lines 2551--2553
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<sce.PNG, id=512, 498.36188pt x 372.64218pt>
+File: sce.PNG Graphic file (type png)
+<use sce.PNG>
+Package pdftex.def Info: sce.PNG  used on input line 2561.
+(pdftex.def)             Requested size: 512.19302pt x 483.71265pt.
+
+Overfull \hbox (42.72253pt too wide) in paragraph at lines 2561--2562
+ [] 
+ []
+
+[91]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<sca.PNG, id=516, 498.36188pt x 372.64218pt>
+File: sca.PNG Graphic file (type png)
+<use sca.PNG>
+Package pdftex.def Info: sca.PNG  used on input line 2571.
+(pdftex.def)             Requested size: 512.19302pt x 483.71265pt.
+
+Overfull \hbox (42.72253pt too wide) in paragraph at lines 2571--2572
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2578--2579
+
+ []
+
+<demander_rattrapage.PNG, id=517, 1202.99437pt x 645.16031pt>
+File: demander_rattrapage.PNG Graphic file (type png)
+<use demander_rattrapage.PNG>
+Package pdftex.def Info: demander_rattrapage.PNG  used on input line 2584.
+(pdftex.def)             Requested size: 512.15613pt x 341.43126pt.
+
+Overfull \hbox (42.68564pt too wide) in paragraph at lines 2584--2585
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[92]
+<consulter_rattrapage.PNG, id=522, 1202.99437pt x 646.66594pt>
+File: consulter_rattrapage.PNG Graphic file (type png)
+<use consulter_rattrapage.PNG>
+Package pdftex.def Info: consulter_rattrapage.PNG  used on input line 2594.
+(pdftex.def)             Requested size: 426.78146pt x 219.08398pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<demander_conge.PNG, id=523, 1204.5pt x 648.17157pt>
+File: demander_conge.PNG Graphic file (type png)
+<use demander_conge.PNG>
+Package pdftex.def Info: demander_conge.PNG  used on input line 2603.
+(pdftex.def)             Requested size: 426.801pt x 219.08968pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[93]
+<consulter_conge_t.PNG, id=527, 1204.5pt x 645.16031pt>
+File: consulter_conge_t.PNG Graphic file (type png)
+<use consulter_conge_t.PNG>
+Package pdftex.def Info: consulter_conge_t.PNG  used on input line 2613.
+(pdftex.def)             Requested size: 512.17223pt x 213.39577pt.
+
+Overfull \hbox (42.70174pt too wide) in paragraph at lines 2613--2614
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: File `consulter_conge_r.PNG' not found on input line 2622.
+
+
+! Package pdftex.def Error: File `consulter_conge_r.PNG' not found: using draft
+ setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2622 ... ,height=  7.5cm]{consulter_conge_r.PNG}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (42.81981pt too wide) in paragraph at lines 2622--2623
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[94]
+<consulter_emploi.PNG, id=531, 1204.5pt x 647.41875pt>
+File: consulter_emploi.PNG Graphic file (type png)
+<use consulter_emploi.PNG>
+Package pdftex.def Info: consulter_emploi.PNG  used on input line 2632.
+(pdftex.def)             Requested size: 512.17223pt x 213.392pt.
+
+Overfull \hbox (42.70174pt too wide) in paragraph at lines 2632--2633
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<consulter_nbr_abs.PNG, id=532, 1203.7472pt x 647.41875pt>
+File: consulter_nbr_abs.PNG Graphic file (type png)
+<use consulter_nbr_abs.PNG>
+Package pdftex.def Info: consulter_nbr_abs.PNG  used on input line 2641.
+(pdftex.def)             Requested size: 512.16437pt x 213.392pt.
+
+Overfull \hbox (42.69388pt too wide) in paragraph at lines 2641--2642
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[95] [96 <./cl_cna.PNG>] [97 <./sdr.PNG>] [98 <./sec_cons_rat.PNG>] [99 <./ssr.
+PNG>] [100 <./sdc.PNG>] [101 <./scc.PNG>] [102 <./smc.PNG>] [103 <./ssc.PNG>]
+[104 <./scct.PNG>] [105 <./sce.PNG>] [106 <./sca.PNG>] [107 <./demander_rattrap
+age.PNG> <./consulter_rattrapage.PNG>] [108 <./demander_conge.PNG> <./consulter
+_conge_t.PNG>] [109 <./consulter_emploi.PNG>] [110 <./consulter_nbr_abs.PNG>]
+Chapitre 4.
+[111
+
+]
+<seq_consulte_acce.png, id=594, 631.60968pt x 95.6072pt>
+File: seq_consulte_acce.png Graphic file (type png)
+<use seq_consulte_acce.png>
+Package pdftex.def Info: seq_consulte_acce.png  used on input line 2663.
+(pdftex.def)             Requested size: 369.89014pt x 85.36293pt.
+
+Overfull \hbox (27.02634pt too wide) in paragraph at lines 2675--2698
+ [] 
+ []
+
+<seq_consulte_ac.PNG, id=595, 517.935pt x 100.12407pt>
+File: seq_consulte_ac.PNG Graphic file (type png)
+<use seq_consulte_ac.PNG>
+Package pdftex.def Info: seq_consulte_ac.PNG  used on input line 2703.
+(pdftex.def)             Requested size: 369.90184pt x 56.9063pt.
+[112 <./seq_consulte_acce.png> <./seq_consulte_ac.PNG>]
+Overfull \hbox (27.02634pt too wide) in paragraph at lines 2714--2752
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2707--2754
+
+ []
+
+[113]
+<cas_con_justififie.PNG, id=602, 486.31688pt x 125.71968pt>
+File: cas_con_justififie.PNG Graphic file (type png)
+<use cas_con_justififie.PNG>
+Package pdftex.def Info: cas_con_justififie.PNG  used on input line 2760.
+(pdftex.def)             Requested size: 369.88664pt x 113.8104pt.
+
+Overfull \hbox (27.02634pt too wide) in paragraph at lines 2771--2794
+ [] 
+ []
+
+<cas_gererconge.PNG, id=603, 469.755pt x 158.84344pt>
+File: cas_gererconge.PNG Graphic file (type png)
+<use cas_gererconge.PNG>
+Package pdftex.def Info: cas_gererconge.PNG  used on input line 2804.
+(pdftex.def)             Requested size: 369.88385pt x 142.27669pt.
+
+Overfull \hbox (27.02634pt too wide) in paragraph at lines 2815--2838
+ [] 
+ []
+
+<cas_con_con.PNG, id=604, 469.755pt x 158.84344pt>
+File: cas_con_con.PNG Graphic file (type png)
+<use cas_con_con.PNG>
+Package pdftex.def Info: cas_con_con.PNG  used on input line 2843.
+(pdftex.def)             Requested size: 341.43456pt x 142.27669pt.
+[114 <./cas_con_justififie.PNG>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (27.02634pt too wide) in paragraph at lines 2856--2882
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2849--2884
+
+ []
+
+[115 <./cas_gererconge.PNG>] [116 <./cas_con_con.PNG>]
+<con_ens_remp.PNG, id=615, 575.14874pt x 179.92218pt>
+File: con_ens_remp.PNG Graphic file (type png)
+<use con_ens_remp.PNG>
+Package pdftex.def Info: con_ens_remp.PNG  used on input line 2893.
+(pdftex.def)             Requested size: 369.89304pt x 142.27423pt.
+
+Overfull \hbox (27.02634pt too wide) in paragraph at lines 2902--2934
+ [] 
+ []
+
+<con_ens_rempp.PNG, id=616, 547.2947pt x 91.09032pt>
+File: con_ens_rempp.PNG Graphic file (type png)
+<use con_ens_rempp.PNG>
+Package pdftex.def Info: con_ens_rempp.PNG  used on input line 2939.
+(pdftex.def)             Requested size: 369.89233pt x 85.3608pt.
+[117 <./con_ens_remp.PNG>]
+Overfull \hbox (27.02634pt too wide) in paragraph at lines 2949--2998
+ [] 
+ []
+
+[118 <./con_ens_rempp.PNG>]
+<mod_ens_remp.PNG, id=623, 565.36218pt x 147.55125pt>
+File: mod_ens_remp.PNG Graphic file (type png)
+<use mod_ens_remp.PNG>
+Package pdftex.def Info: mod_ens_remp.PNG  used on input line 3003.
+(pdftex.def)             Requested size: 369.89655pt x 108.12126pt.
+
+Overfull \hbox (27.02634pt too wide) in paragraph at lines 3013--3056
+ [] 
+ []
+
+[119 <./mod_ens_remp.PNG>]
+<sup_ens_remp.PNG, id=627, 546.54187pt x 147.55125pt>
+File: sup_ens_remp.PNG Graphic file (type png)
+<use sup_ens_remp.PNG>
+Package pdftex.def Info: sup_ens_remp.PNG  used on input line 3063.
+(pdftex.def)             Requested size: 369.88391pt x 113.81293pt.
+<mar_abs.PNG, id=628, 436.63126pt x 177.66376pt>
+File: mar_abs.PNG Graphic file (type png)
+<use mar_abs.PNG>
+Package pdftex.def Info: mar_abs.PNG  used on input line 3074.
+(pdftex.def)             Requested size: 369.88577pt x 142.26674pt.
+ [120 <./sup_ens_remp.PNG> <./mar_abs.PNG>]
+Overfull \hbox (27.02634pt too wide) in paragraph at lines 3084--3130
+ [] 
+ []
+
+[121]
+<tra_con_con_acc.PNG, id=635, 626.34pt x 240.9pt>
+File: tra_con_con_acc.PNG Graphic file (type png)
+<use tra_con_con_acc.PNG>
+Package pdftex.def Info: tra_con_con_acc.PNG  used on input line 3140.
+(pdftex.def)             Requested size: 341.43932pt x 125.19151pt.
+<tra_con_con_jus.PNG, id=636, 481.04718pt x 240.9pt>
+File: tra_con_con_jus.PNG Graphic file (type png)
+<use tra_con_con_jus.PNG>
+Package pdftex.def Info: tra_con_con_jus.PNG  used on input line 3148.
+(pdftex.def)             Requested size: 341.44313pt x 125.19151pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<acc.PNG, id=637, 560.0925pt x 240.9pt>
+File: acc.PNG Graphic file (type png)
+<use acc.PNG>
+Package pdftex.def Info: acc.PNG  used on input line 3156.
+(pdftex.def)             Requested size: 341.44226pt x 156.49492pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<don.PNG, id=638, 572.89032pt x 240.9pt>
+File: don.PNG Graphic file (type png)
+<use don.PNG>
+Package pdftex.def Info: don.PNG  used on input line 3164.
+(pdftex.def)             Requested size: 341.4378pt x 156.49492pt.
+[122 <./tra_con_con_acc.PNG>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<mod_rem.PNG, id=643, 587.19376pt x 240.9pt>
+File: mod_rem.PNG Graphic file (type png)
+<use mod_rem.PNG>
+Package pdftex.def Info: mod_rem.PNG  used on input line 3172.
+(pdftex.def)             Requested size: 341.43275pt x 156.49492pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<sup_rem.PNG, id=644, 587.19376pt x 240.9pt>
+File: sup_rem.PNG Graphic file (type png)
+<use sup_rem.PNG>
+Package pdftex.def Info: sup_rem.PNG  used on input line 3180.
+(pdftex.def)             Requested size: 341.43275pt x 156.49492pt.
+[123 <./tra_con_con_jus.PNG> <./acc.PNG>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<tra_mar_abs.PNG, id=648, 603.75563pt x 200.24812pt>
+File: tra_mar_abs.PNG Graphic file (type png)
+<use tra_mar_abs.PNG>
+Package pdftex.def Info: tra_mar_abs.PNG  used on input line 3188.
+(pdftex.def)             Requested size: 341.42657pt x 156.49846pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[124 <./don.PNG> <./mod_rem.PNG>]
+File: classid.png Graphic file (type png)
+<use classid.png>
+Package pdftex.def Info: classid.png  used on input line 3200.
+(pdftex.def)             Requested size: 341.43845pt x 56.90607pt.
+ [125 <./sup_rem.PNG> <./tra_mar_abs.PNG>]
+[126] (rap.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 5940 strings out of 492902
+ 90470 string characters out of 3124273
+ 176783 words of memory out of 3000000
+ 9566 multiletter control sequences out of 15000+200000
+ 57448 words of font info for 46 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,13n,44p,870b,504s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/slim/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc
+}{C:/Users/slim/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<
+C:/Users/slim/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pf
+b><C:/Users/slim/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmcsc1
+0.pfb><C:/Users/slim/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lm
+r12.pfb><C:/Users/slim/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/
+lmr17.pfb><C:/Users/slim/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/l
+m/lmss17.pfb><C:/Users/slim/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
+c/lm/lmtk10.pfb><C:/Users/slim/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/lm/lmtt12.pfb><C:/Users/slim/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
+/urw/zapfchan/uzcmi8a.pfb><C:/Users/slim/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/urw/zapfding/uzdr.pfb>
+Output written on rap.pdf (149 pages, 10164890 bytes).
+PDF statistics:
+ 694 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 731 words of extra memory for PDF output out of 10000 (max. 10000000)
+

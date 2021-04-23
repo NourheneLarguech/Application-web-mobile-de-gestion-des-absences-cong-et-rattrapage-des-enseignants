@@ -1,0 +1,143 @@
+\babel@toc {french}{}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Organigramme de l'ISIGK}}{4}% 
+\contentsline {figure}{\numberline {1.2}{\ignorespaces L'it\IeC {\'e}ration du processus unifi\IeC {\'e} }}{7}% 
+\contentsline {figure}{\numberline {1.3}{\ignorespaces La centralisation du UP sur l'architecture}}{8}% 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Diagramme de contexte statique}}{13}% 
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Diagramme de contexte Dynamique}}{14}% 
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Diagramme du cas d\IeC {\textquoteright }utilisation g\IeC {\'e}n\IeC {\'e}ral}}{18}% 
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Description du cas d'utilisation "s'authentifier"}}{20}% 
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Diagramme de cas d'utilisation \IeC {\guillemotleft }G\IeC {\'e}rer enseignant \IeC {\guillemotright }}}{21}% 
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Diagramme du cas d\IeC {\textquoteright }utilisation "Ajouter enseignant"}}{22}% 
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Diagramme du cas d\IeC {\textquoteright }utilisation "consulter enseignant"}}{22}% 
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Diagramme du cas d\IeC {\textquoteright }utilisation "modifier enseignant"}}{23}% 
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Diagramme du cas d\IeC {\textquoteright }utilisation "supprimer enseignant"}}{24}% 
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Diagramme de cas d'utilisation \IeC {\guillemotleft }G\IeC {\'e}rer personnel \IeC {\guillemotright }}}{25}% 
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Diagramme du cas d\IeC {\textquoteright }utilisation "Ajouter personnel"}}{26}% 
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Diagramme du cas d\IeC {\textquoteright }utilisation "Consulter personnel"}}{26}% 
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Diagramme du cas d\IeC {\textquoteright }utilisation "Modifier personnel"}}{27}% 
+\contentsline {figure}{\numberline {2.14}{\ignorespaces Diagramme du cas d\IeC {\textquoteright }utilisation "Supprimer personnel"}}{28}% 
+\contentsline {figure}{\numberline {2.15}{\ignorespaces classe \IeC {\guillemotleft } interface \IeC {\guillemotright }}}{29}% 
+\contentsline {figure}{\numberline {2.16}{\ignorespaces classe \IeC {\guillemotleft } interface \IeC {\guillemotright }}}{29}% 
+\contentsline {figure}{\numberline {2.17}{\ignorespaces Classe \IeC {\guillemotleft } entit\IeC {\'e} \IeC {\guillemotright }}}{30}% 
+\contentsline {figure}{\numberline {2.18}{\ignorespaces Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "S\IeC {\textquoteright }authentifier"}}{30}% 
+\contentsline {figure}{\numberline {2.19}{\ignorespaces Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "Ajouter enseignant"}}{31}% 
+\contentsline {figure}{\numberline {2.20}{\ignorespaces Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "consulter la liste des enseignants"}}{31}% 
+\contentsline {figure}{\numberline {2.21}{\ignorespaces Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "Modifier un enseignant"}}{32}% 
+\contentsline {figure}{\numberline {2.22}{\ignorespaces Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "Supprimer un enseignant"}}{32}% 
+\contentsline {figure}{\numberline {2.23}{\ignorespaces Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "Ajouter personnel"}}{33}% 
+\contentsline {figure}{\numberline {2.24}{\ignorespaces Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "consulter la liste des personnels"}}{33}% 
+\contentsline {figure}{\numberline {2.25}{\ignorespaces Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "Modifier un personnel"}}{34}% 
+\contentsline {figure}{\numberline {2.26}{\ignorespaces Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "Supprimer un personnel" }}{34}% 
+\contentsline {figure}{\numberline {2.27}{\ignorespaces Diagramme de classes d\IeC {\textquoteright }analyse relatif au cas d\IeC {\textquoteright }utilisation "S\IeC {\textquoteright }authentifier"}}{35}% 
+\contentsline {figure}{\numberline {2.28}{\ignorespaces Diagramme de classes d\IeC {\textquoteright }analyse relatif au cas d\IeC {\textquoteright }utilisation "G\IeC {\'e}rer enseignant"}}{35}% 
+\contentsline {figure}{\numberline {2.29}{\ignorespaces Diagramme de classes d\IeC {\textquoteright }analyse relatif au cas d\IeC {\textquoteright }utilisation "G\IeC {\'e}rer personnel"}}{36}% 
+\contentsline {figure}{\numberline {2.30}{\ignorespaces Diagramme de collaboration relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft }S\IeC {\textquoteright }authentifier\IeC {\guillemotright }}}{37}% 
+\contentsline {figure}{\numberline {2.31}{\ignorespaces Diagramme de collaboration de mod\IeC {\`e}le d'analyse pour le cas d'utilisation \IeC {\guillemotleft }Ajouter enseignant\IeC {\guillemotright }}}{37}% 
+\contentsline {figure}{\numberline {2.32}{\ignorespaces Diagramme de collaboration pour le mod\IeC {\`e}le d\IeC {\textquoteright }analyse du cas d'utilisation \IeC {\guillemotleft }Consulter enseignant\IeC {\guillemotright }}}{38}% 
+\contentsline {figure}{\numberline {2.33}{\ignorespaces Diagramme de collaboration de mod\IeC {\`e}le d'analyse pour le cas d'utilisation \IeC {\guillemotleft }Modifier enseignant\IeC {\guillemotright }}}{38}% 
+\contentsline {figure}{\numberline {2.34}{\ignorespaces Diagramme de collaboration de mod\IeC {\`e}le d'analyse pour le cas d'utilisation \IeC {\guillemotleft }Supprimer enseignant\IeC {\guillemotright } }}{39}% 
+\contentsline {figure}{\numberline {2.35}{\ignorespaces Diagramme de collaboration pour le mod\IeC {\`e}le d\IeC {\textquoteright }analyse du cas d'utilisation \IeC {\guillemotleft }Ajouter personnel\IeC {\guillemotright }}}{39}% 
+\contentsline {figure}{\numberline {2.36}{\ignorespaces Diagramme de collaboration pour le mod\IeC {\`e}le d\IeC {\textquoteright }analyse du cas d'utilisation \IeC {\guillemotleft }Consulter personnel\IeC {\guillemotright }}}{40}% 
+\contentsline {figure}{\numberline {2.37}{\ignorespaces Diagramme de collaboration pour le mod\IeC {\`e}le d\IeC {\textquoteright }analyse du cas d'utilisation \IeC {\guillemotleft }Modifier personnel\IeC {\guillemotright }}}{40}% 
+\contentsline {figure}{\numberline {2.38}{\ignorespaces Diagramme de collaboration pour le mod\IeC {\`e}le d\IeC {\textquoteright }analyse du cas d'utilisation \IeC {\guillemotleft }Supprimer personnel\IeC {\guillemotright }}}{41}% 
+\contentsline {figure}{\numberline {2.39}{\ignorespaces Diagramme de classes de conception relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft }S\IeC {\textquoteright }authentifier\IeC {\guillemotright } }}{42}% 
+\contentsline {figure}{\numberline {2.40}{\ignorespaces Diagramme de classes de conception relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft }G\IeC {\'e}rer enseignant\IeC {\guillemotright }}}{42}% 
+\contentsline {figure}{\numberline {2.41}{\ignorespaces Diagramme de classes de conception relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft }G\IeC {\'e}rer personnel\IeC {\guillemotright } }}{43}% 
+\contentsline {figure}{\numberline {2.42}{\ignorespaces Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft } S\IeC {\textquoteright }authentifier \IeC {\guillemotright }}}{44}% 
+\contentsline {figure}{\numberline {2.43}{\ignorespaces Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft } Ajouter enseignant \IeC {\guillemotright }}}{45}% 
+\contentsline {figure}{\numberline {2.44}{\ignorespaces Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft } Consulter enseignant \IeC {\guillemotright }}}{46}% 
+\contentsline {figure}{\numberline {2.45}{\ignorespaces Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft } Modifier enseignant \IeC {\guillemotright }}}{47}% 
+\contentsline {figure}{\numberline {2.46}{\ignorespaces Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft } Supprimer enseignant \IeC {\guillemotright }}}{48}% 
+\contentsline {figure}{\numberline {2.47}{\ignorespaces Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft } Ajouter personnel \IeC {\guillemotright }}}{49}% 
+\contentsline {figure}{\numberline {2.48}{\ignorespaces Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft } Consulter personnel \IeC {\guillemotright }}}{50}% 
+\contentsline {figure}{\numberline {2.49}{\ignorespaces Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft } Modifier personnel \IeC {\guillemotright }}}{51}% 
+\contentsline {figure}{\numberline {2.50}{\ignorespaces Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft } Supprimer personnel \IeC {\guillemotright }}}{52}% 
+\contentsline {figure}{\numberline {2.51}{\ignorespaces Interface d'authentification}}{56}% 
+\contentsline {figure}{\numberline {2.52}{\ignorespaces Interface Ajouter Enseignant}}{57}% 
+\contentsline {figure}{\numberline {2.53}{\ignorespaces Interface Consulter Enseignant}}{57}% 
+\contentsline {figure}{\numberline {2.54}{\ignorespaces Interface Modifier Enseignant}}{58}% 
+\contentsline {figure}{\numberline {2.55}{\ignorespaces Interface Ajouter Personnel du cong\IeC {\'e}}}{58}% 
+\contentsline {figure}{\numberline {2.56}{\ignorespaces Interface Consulter Personnel du cong\IeC {\'e}}}{59}% 
+\contentsline {figure}{\numberline {2.57}{\ignorespaces Interface modifier Personnel du cong\IeC {\'e}}}{59}% 
+\contentsline {figure}{\numberline {2.58}{\ignorespaces Interface Modifier Personnel d'absence}}{60}% 
+\contentsline {figure}{\numberline {2.59}{\ignorespaces Interface Consulter Personnel d'absence}}{60}% 
+\contentsline {figure}{\numberline {2.60}{\ignorespaces Interface Modifier Personnel d'absence}}{61}% 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Description du cas d'utilisation "Demander rattrapage"}}{63}% 
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Description du cas d'utilisation "Consulter rattrapage"}}{64}% 
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Description du cas d'utilisation "Consulter la liste des rattrapages"}}{64}% 
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Description du cas d'utilisation "Demander cong\IeC {\'e}"}}{66}% 
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Description du cas d'utilisation "Consulter la liste des demandes des cong\IeC {\'e}s en cours de traitement"}}{67}% 
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Description du cas d'utilisation "Consulter la liste des demandes des cong\IeC {\'e}s en cours de traitement"}}{68}% 
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Description du cas d'utilisation "Modifier l'horaire du cong\IeC {\'e}"}}{68}% 
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Description du cas d'utilisation "Supprimer un cong\IeC {\'e}"}}{69}% 
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Diagramme du cas d\IeC {\textquoteright }utilisation "Consulter la liste des demandes des cong\IeC {\'e}s trait\IeC {\'e}s"}}{70}% 
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Diagramme du cas d\IeC {\textquoteright }utilisation "Consulter l'emploi du temps"}}{71}% 
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Diagramme du cas d\IeC {\textquoteright }utilisation "Consulter le nombre des absences"}}{72}% 
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "Demander rattrapage"}}{73}% 
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "Demander rattrapage"}}{74}% 
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation " Modifier l'horaire du rattrapage"}}{74}% 
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation " Supprimer un rattrapage"}}{75}% 
+\contentsline {figure}{\numberline {3.16}{\ignorespaces Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "Demander cong\IeC {\'e}"}}{75}% 
+\contentsline {figure}{\numberline {3.17}{\ignorespaces Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "Consulter l'\IeC {\'e}tat du cong\IeC {\'e}"}}{76}% 
+\contentsline {figure}{\numberline {3.18}{\ignorespaces Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "Modifier l'horaire de demande du cong\IeC {\'e}"}}{76}% 
+\contentsline {figure}{\numberline {3.19}{\ignorespaces Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "Supprimer une demande du cong\IeC {\'e}"}}{77}% 
+\contentsline {figure}{\numberline {3.20}{\ignorespaces Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "Consulter la liste des demandes des cong\IeC {\'e}s trait\IeC {\'e}es"}}{77}% 
+\contentsline {figure}{\numberline {3.21}{\ignorespaces Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "Consulter l'emploi du temps"}}{78}% 
+\contentsline {figure}{\numberline {3.22}{\ignorespaces Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "Consulter le nombre d'absence"}}{78}% 
+\contentsline {figure}{\numberline {3.23}{\ignorespaces Diagramme de classes d\IeC {\textquoteright }analyse relatif aux cas d\IeC {\textquoteright }utilisation "Demander rattrapage " et "Consulter rattrapage" }}{79}% 
+\contentsline {figure}{\numberline {3.24}{\ignorespaces Diagramme de classes d\IeC {\textquoteright }analyse relatif aux cas d\IeC {\textquoteright }utilisation "Demander cong\IeC {\'e} ", "Consulter la liste des demandes des cong\IeC {\'e}s en cours de traitement" et "Consulter la liste des demandes des cong\IeC {\'e}s trait\IeC {\'e}es"}}{79}% 
+\contentsline {figure}{\numberline {3.25}{\ignorespaces Diagramme de classes d\IeC {\textquoteright }analyse relatif au cas d\IeC {\textquoteright }utilisation "Consulter l'emploi du temps"}}{80}% 
+\contentsline {figure}{\numberline {3.26}{\ignorespaces Diagramme de classes d\IeC {\textquoteright }analyse relatif au cas d\IeC {\textquoteright }utilisation "Consulter le nombre d'absence"}}{80}% 
+\contentsline {figure}{\numberline {3.27}{\ignorespaces Diagramme de collaboration de mod\IeC {\`e}le d'analyse pour le cas d'utilisation \IeC {\guillemotleft }Demander un rattrapage\IeC {\guillemotright }}}{81}% 
+\contentsline {figure}{\numberline {3.28}{\ignorespaces Diagramme de collaboration de mod\IeC {\`e}le d'analyse pour le cas d'utilisation \IeC {\guillemotleft }Consulter la liste des rattrapages\IeC {\guillemotright }}}{81}% 
+\contentsline {figure}{\numberline {3.29}{\ignorespaces Diagramme de collaboration de mod\IeC {\`e}le d'analyse pour le cas d'utilisation \IeC {\guillemotleft }Modifier l'horaire du rattrapage\IeC {\guillemotright }}}{82}% 
+\contentsline {figure}{\numberline {3.30}{\ignorespaces Diagramme de collaboration de mod\IeC {\`e}le d'analyse pour le cas d'utilisation \IeC {\guillemotleft } Supprimer un rattrapage \IeC {\guillemotright }}}{82}% 
+\contentsline {figure}{\numberline {3.31}{\ignorespaces Diagramme de collaboration de mod\IeC {\`e}le d'analyse pour le cas d'utilisation \IeC {\guillemotleft } Demander cong\IeC {\'e} \IeC {\guillemotright }}}{83}% 
+\contentsline {figure}{\numberline {3.32}{\ignorespaces Diagramme de collaboration de mod\IeC {\`e}le d'analyse pour le cas d'utilisation \IeC {\guillemotleft } Consulter la liste des demandes des cong\IeC {\'e}s en cours de traitement\IeC {\guillemotright }}}{83}% 
+\contentsline {figure}{\numberline {3.33}{\ignorespaces Diagramme de collaboration de mod\IeC {\`e}le d'analyse pour le cas d'utilisation \IeC {\guillemotleft }Modifier l'horaire de demande du cong\IeC {\'e} \IeC {\guillemotright }}}{84}% 
+\contentsline {figure}{\numberline {3.34}{\ignorespaces Diagramme de collaboration de mod\IeC {\`e}le d'analyse pour le cas d'utilisation \IeC {\guillemotleft }Supprimer la demande du cong\IeC {\'e} \IeC {\guillemotright }}}{84}% 
+\contentsline {figure}{\numberline {3.35}{\ignorespaces Diagramme de collaboration de mod\IeC {\`e}le d'analyse pour le cas d'utilisation \IeC {\guillemotleft }Consulter la liste des demandes des cong\IeC {\'e}s trait\IeC {\'e}es \IeC {\guillemotright }}}{85}% 
+\contentsline {figure}{\numberline {3.36}{\ignorespaces Diagramme de collaboration de mod\IeC {\`e}le d'analyse pour le cas d'utilisation \IeC {\guillemotleft }Consulter l'emploi du temps \IeC {\guillemotright }}}{85}% 
+\contentsline {figure}{\numberline {3.37}{\ignorespaces Diagramme de collaboration de mod\IeC {\`e}le d'analyse pour le cas d'utilisation \IeC {\guillemotleft }Consulter le nombre d'absences\IeC {\guillemotright }}}{86}% 
+\contentsline {figure}{\numberline {3.38}{\ignorespaces Diagramme de classes de conception relatif aux cas d'utilisations \IeC {\guillemotleft } Demander rattrapage \IeC {\guillemotright } et \IeC {\guillemotleft } Consulter rattrapage \IeC {\guillemotright } }}{87}% 
+\contentsline {figure}{\numberline {3.39}{\ignorespaces Diagramme de classes de conception relatif aux cas d'utilisations \IeC {\guillemotleft } Demander cong\IeC {\'e} \IeC {\guillemotright } , \IeC {\guillemotleft }Consulter la liste des demandes des cong\IeC {\'e}s en cours du traitements\IeC {\guillemotright } et \IeC {\guillemotleft }Consulter la liste des demandes des cong\IeC {\'e}s trait\IeC {\'e}es\IeC {\guillemotright } }}{88}% 
+\contentsline {figure}{\numberline {3.40}{\ignorespaces Diagramme de classes de conception relatif aux cas d'utilisations \IeC {\guillemotleft } Consulter le nombre d'absence \IeC {\guillemotright } }}{96}% 
+\contentsline {figure}{\numberline {3.41}{\ignorespaces Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft } Demander rattrapage \IeC {\guillemotright }}}{97}% 
+\contentsline {figure}{\numberline {3.42}{\ignorespaces Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft } Consulter rattrapage \IeC {\guillemotright }}}{98}% 
+\contentsline {figure}{\numberline {3.43}{\ignorespaces Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft } Supprimer rattrapage\IeC {\guillemotright }}}{99}% 
+\contentsline {figure}{\numberline {3.44}{\ignorespaces Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft }Demander cong\IeC {\'e}\IeC {\guillemotright }}}{100}% 
+\contentsline {figure}{\numberline {3.45}{\ignorespaces Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft }Consulter la liste des demandes des cong\IeC {\'e}s en cours du traitements\IeC {\guillemotright }}}{101}% 
+\contentsline {figure}{\numberline {3.46}{\ignorespaces Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft }Modifier l'horaire du cong\IeC {\'e}\IeC {\guillemotright }}}{102}% 
+\contentsline {figure}{\numberline {3.47}{\ignorespaces Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft }Supprimer cong\IeC {\'e}\IeC {\guillemotright }}}{103}% 
+\contentsline {figure}{\numberline {3.48}{\ignorespaces Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft }Consulter la liste des demandes des cong\IeC {\'e}s trait\IeC {\'e}es\IeC {\guillemotright }}}{104}% 
+\contentsline {figure}{\numberline {3.49}{\ignorespaces Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft }Consulter l'emploi du temps\IeC {\guillemotright }}}{105}% 
+\contentsline {figure}{\numberline {3.50}{\ignorespaces Diagramme de s\IeC {\'e}quences relatif au cas d\IeC {\textquoteright }utilisation \IeC {\guillemotleft }Consulter le nombre d'absences\IeC {\guillemotright }}}{106}% 
+\contentsline {figure}{\numberline {3.51}{\ignorespaces Interface Demander Rattrapage}}{107}% 
+\contentsline {figure}{\numberline {3.52}{\ignorespaces Interface Consulter Rattrapage}}{107}% 
+\contentsline {figure}{\numberline {3.53}{\ignorespaces Interface Demander cong\IeC {\'e}}}{108}% 
+\contentsline {figure}{\numberline {3.54}{\ignorespaces Interface consulter la liste des Cong\IeC {\'e}s En Cours De Traitement}}{108}% 
+\contentsline {figure}{\numberline {3.55}{\ignorespaces Interface Consulter la liste des demandes des cong\IeC {\'e}s trait\IeC {\'e}es}}{109}% 
+\contentsline {figure}{\numberline {3.56}{\ignorespaces Interface consulter l'emploi du temps }}{109}% 
+\contentsline {figure}{\numberline {3.57}{\ignorespaces Interface consulter le nombre d'absences }}{110}% 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Description du cas d'utilisation "Consulter la liste des demandes des cong\IeC {\'e}s accept\IeC {\'e}s"}}{112}% 
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Description du cas d'utilisation "Consulter la liste des demandes des cong\IeC {\'e}s accept\IeC {\'e}s"}}{112}% 
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Description du cas d'utilisation "Consulter la liste des demandes des cong\IeC {\'e}s qui n\IeC {\'e}cessite une justification "}}{114}% 
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Description du cas d'utilisation "consulter les demandes des cong\IeC {\'e}s "}}{115}% 
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Description du cas d'utilisation "consulter les demandes des cong\IeC {\'e}s "}}{116}% 
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Diagramme du cas d\IeC {\textquoteright }utilisation "consulter enseignant rempla\IeC {\c c}ant"}}{117}% 
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Diagramme du cas d\IeC {\textquoteright }utilisation "consulter enseignant rempla\IeC {\c c}ant"}}{118}% 
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Diagramme du cas d\IeC {\textquoteright }utilisation "modifier enseignant rempla\IeC {\c c}ant"}}{119}% 
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Diagramme du cas d\IeC {\textquoteright }utilisation "supprimer enseignant rempla\IeC {\c c}ant"}}{120}% 
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Diagramme du cas d\IeC {\textquoteright }utilisation "marquer la pr\IeC {\'e}sence des enseignants"}}{120}% 
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "Consulter la liste des demandes des cong\IeC {\'e}s accept\IeC {\'e}s"}}{122}% 
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "Consulter la liste des demandes des cong\IeC {\'e}s qui n\IeC {\'e}cessite une justification"}}{123}% 
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au sous cas d\IeC {\textquoteright }utilisation "Accepter"}}{123}% 
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au sous cas d\IeC {\textquoteright }utilisation "Donner une justification"}}{124}% 
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "Modifier enseignant rempla\IeC {\c c}ant"}}{124}% 
+\contentsline {figure}{\numberline {4.16}{\ignorespaces Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "Supprimer enseignant rempla\IeC {\c c}ant"}}{125}% 
+\contentsline {figure}{\numberline {4.17}{\ignorespaces Tra\IeC {\c c}abilit\IeC {\'e} entre MCU et MA relatif au cas d\IeC {\textquoteright }utilisation "Marquer \IeC {\'e}tat absence / pr\IeC {\'e}sence"}}{125}% 
+\contentsline {figure}{\numberline {4.18}{\ignorespaces Diagramme de classes d\IeC {\textquoteright }analyse relatif au cas d\IeC {\textquoteright }utilisation "S\IeC {\textquoteright }authentifier"}}{126}% 

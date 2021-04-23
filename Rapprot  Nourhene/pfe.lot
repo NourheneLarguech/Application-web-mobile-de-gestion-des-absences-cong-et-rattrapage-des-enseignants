@@ -1,0 +1,38 @@
+\babel@toc {french}{}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces Description d\IeC {\'e}taill\IeC {\'e}e des acteurs }}{16}% 
+\contentsline {table}{\numberline {2.2}{\ignorespaces Affectation des acteurs et priorit\IeC {\'e}s aux cas d\IeC {\textquoteright }utilisation }}{18}% 
+\contentsline {table}{\numberline {2.3}{\ignorespaces Cas d'utilisation "s'authentifier"}}{19}% 
+\contentsline {table}{\numberline {2.4}{\ignorespaces Sous Cas d'utilisation "ajouter un enseignant" }}{20}% 
+\contentsline {table}{\numberline {2.5}{\ignorespaces Sous Cas d'utilisation "Consulter la liste des enseignants" }}{21}% 
+\contentsline {table}{\numberline {2.6}{\ignorespaces Sous Cas d'utilisation "modifier un enseignant" }}{22}% 
+\contentsline {table}{\numberline {2.7}{\ignorespaces Sous Cas d'utilisation "supprimer un enseignant" }}{23}% 
+\contentsline {table}{\numberline {2.8}{\ignorespaces Sous Cas d'utilisation "Informer" }}{24}% 
+\contentsline {table}{\numberline {2.9}{\ignorespaces Sous Cas d'utilisation "ajouter un personnel" }}{25}% 
+\contentsline {table}{\numberline {2.10}{\ignorespaces Sous Cas d'utilisation "Consulter la liste des personnels" }}{26}% 
+\contentsline {table}{\numberline {2.11}{\ignorespaces Sous Cas d'utilisation "modifier un personnel" }}{27}% 
+\contentsline {table}{\numberline {2.12}{\ignorespaces Sous Cas d'utilisation "supprimer un personnel" }}{28}% 
+\contentsline {table}{\numberline {2.13}{\ignorespaces Sous Cas d'utilisation "Informer" }}{29}% 
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Cas d'utilisation "Demander rattrapage"}}{71}% 
+\contentsline {table}{\numberline {3.2}{\ignorespaces cas d'utilisation "consulter rattrapage"}}{72}% 
+\contentsline {table}{\numberline {3.3}{\ignorespaces Sous Cas d'utilisation "supprimer rattrapage"}}{73}% 
+\contentsline {table}{\numberline {3.4}{\ignorespaces Cas d'utilisation "Demander cong\IeC {\'e}"}}{74}% 
+\contentsline {table}{\numberline {3.5}{\ignorespaces cas d'utilisation "Consulter la liste des demandes des cong\IeC {\'e}s"}}{75}% 
+\contentsline {table}{\numberline {3.6}{\ignorespaces Sous cas d'utilisation "modifier la demande du cong\IeC {\'e} "}}{76}% 
+\contentsline {table}{\numberline {3.7}{\ignorespaces Sous cas d'utilisation "Supprimer une demande du cong\IeC {\'e}"}}{77}% 
+\contentsline {table}{\numberline {3.8}{\ignorespaces Cas d'utilisation "Consulter la liste des demandes des cong\IeC {\'e}s accept\IeC {\'e}es" }}{78}% 
+\contentsline {table}{\numberline {3.9}{\ignorespaces Cas d'utilisation "Consulter l'emploi du temps" }}{79}% 
+\contentsline {table}{\numberline {3.10}{\ignorespaces Cas d'utilisation "Consulter le nombre des absences" }}{80}% 
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Cas d'utilisation "consulter la liste des demandes des cong\IeC {\'e}s accept\IeC {\'e}es "}}{114}% 
+\contentsline {table}{\numberline {4.2}{\ignorespaces Sous Cas d'utilisation "Ajouter un enseignant rempla\IeC {\c c}ant "}}{115}% 
+\contentsline {table}{\numberline {4.3}{\ignorespaces Cas d'utilisation "consulter la liste des demandes des cong\IeC {\'e}s qui n\IeC {\'e}cessite une justification "}}{116}% 
+\contentsline {table}{\numberline {4.4}{\ignorespaces Cas d'utilisation "Consulter les demandes des cong\IeC {\'e}s "}}{117}% 
+\contentsline {table}{\numberline {4.5}{\ignorespaces Sous cas d'utilisation "R\IeC {\'e}pondre les demandes du cong\IeC {\'e}s "}}{118}% 
+\contentsline {table}{\numberline {4.6}{\ignorespaces Sous Cas d'utilisation "Consulter la liste des enseignants rempla\IeC {\c c}ants" }}{119}% 
+\contentsline {table}{\numberline {4.7}{\ignorespaces Sous Cas d'utilisation "modifier un enseignant rempla\IeC {\c c}ant" }}{120}% 
+\contentsline {table}{\numberline {4.8}{\ignorespaces Sous Cas d'utilisation "supprimer un enseignant rempla\IeC {\c c}ant" }}{121}% 
+\contentsline {table}{\numberline {4.9}{\ignorespaces Cas d'utilisation "Marquer \IeC {\'e}tat absence / pr\IeC {\'e}sence" }}{123}% 
+\addvspace {10\p@ }
